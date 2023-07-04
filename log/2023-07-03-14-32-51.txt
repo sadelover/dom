@@ -1,0 +1,41 @@
+[2023-07-03 14:32:51:716] app on ready
+[2023-07-03 14:32:51:717] start to install extensions
+[2023-07-03 14:32:51:717] argv.length6
+[2023-07-03 14:32:51:717] x0
+[2023-07-03 14:32:51:717] y0
+[2023-07-03 14:32:51:718] appWindowWidth--960
+[2023-07-03 14:32:51:718] appWindowHeight--516
+[2023-07-03 14:32:51:718] countNaN
+[2023-07-03 14:32:51:718] countstring
+[2023-07-03 14:32:51:718] count-r
+[2023-07-03 14:32:51:718] No-r
+[2023-07-03 14:32:51:719] the install param {isDev}: true
+[2023-07-03 14:32:51:744] begin to download extensions!
+[2023-07-03 14:33:02:528] start to install extensions,total cost: 10810
+[2023-07-03 14:33:02:528] createLoginWindow finish
+[2023-07-03 14:33:02:529] createLoginWindow start act
+[2023-07-03 14:33:02:529] electronWindow.createWindow start
+[2023-07-03 14:33:02:546] electronWindow.createWindow finish
+[2023-07-03 14:33:02:546] addDebugContextMenu start
+[2023-07-03 14:33:02:546] addDebugContextMenu finish
+[2023-07-03 14:33:02:547] loginWin.showUrl to login.html start
+[2023-07-03 14:33:02:555] loginWin.showUrl to login.html finish
+[2023-07-03 14:37:26:730] loginWin.showUrl internal act...
+[2023-07-03 14:37:39:856] loginWin.hide start
+[2023-07-03 14:37:39:857] loginWin.hide finish
+[2023-07-03 14:37:39:857] createAppWindow start
+[2023-07-03 14:37:39:857] electronWindow.createWindow start
+[2023-07-03 14:37:39:864] electronWindow.createWindow finish
+[2023-07-03 14:37:39:865] appWin.maximize
+[2023-07-03 14:37:39:881] addDebugContextMenu to appWin
+[2023-07-03 14:37:39:881] appWin.showUrl to app.html start
+[2023-07-03 14:37:39:888] createAppWindow finish
+[2023-07-03 14:37:39:888] loginWin start
+[2023-07-03 14:37:39:889] destroyWindow
+[2023-07-03 14:37:39:889] win close start
+[2023-07-03 14:37:39:890] win close finish
+[2023-07-03 14:37:39:890] loginWin finish
+[2023-07-03 14:37:42:117] appWin.showUrl internal: Start rendering
+[2023-07-03 14:37:42:117] appWin.showUrl to app.html finish
+[2023-07-03 14:46:57:097] Uncaught TypeError: Cannot read property 'ChPower01' of null
+[2023-07-03 14:46:57:098] Uncaught TypeError: Cannot read property 'customControls' of null

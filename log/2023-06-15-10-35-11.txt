@@ -1,0 +1,47 @@
+[2023-06-15 10:35:11:549] app on ready
+[2023-06-15 10:35:11:549] start to install extensions
+[2023-06-15 10:35:11:550] argv.length6
+[2023-06-15 10:35:11:550] x0
+[2023-06-15 10:35:11:550] y0
+[2023-06-15 10:35:11:550] appWindowWidth--960
+[2023-06-15 10:35:11:550] appWindowHeight--516
+[2023-06-15 10:35:11:551] countNaN
+[2023-06-15 10:35:11:551] countstring
+[2023-06-15 10:35:11:551] count-r
+[2023-06-15 10:35:11:551] No-r
+[2023-06-15 10:35:11:551] the install param {isDev}: true
+[2023-06-15 10:35:11:579] begin to download extensions!
+[2023-06-15 10:35:12:882] start to install extensions,total cost: 1331
+[2023-06-15 10:35:12:882] createLoginWindow finish
+[2023-06-15 10:35:12:882] createLoginWindow start act
+[2023-06-15 10:35:12:882] electronWindow.createWindow start
+[2023-06-15 10:35:12:915] electronWindow.createWindow finish
+[2023-06-15 10:35:12:915] addDebugContextMenu start
+[2023-06-15 10:35:12:915] addDebugContextMenu finish
+[2023-06-15 10:35:12:916] loginWin.showUrl to login.html start
+[2023-06-15 10:35:12:929] loginWin.showUrl to login.html finish
+[2023-06-15 10:39:39:567] loginWin.showUrl internal act...
+[2023-06-15 10:40:18:951] loginWin.hide start
+[2023-06-15 10:40:18:952] loginWin.hide finish
+[2023-06-15 10:40:18:952] createAppWindow start
+[2023-06-15 10:40:18:952] electronWindow.createWindow start
+[2023-06-15 10:40:18:959] electronWindow.createWindow finish
+[2023-06-15 10:40:18:959] appWin.maximize
+[2023-06-15 10:40:18:987] addDebugContextMenu to appWin
+[2023-06-15 10:40:18:988] appWin.showUrl to app.html start
+[2023-06-15 10:40:18:993] createAppWindow finish
+[2023-06-15 10:40:18:993] loginWin start
+[2023-06-15 10:40:18:994] destroyWindow
+[2023-06-15 10:40:18:994] win close start
+[2023-06-15 10:40:18:994] win close finish
+[2023-06-15 10:40:18:994] loginWin finish
+[2023-06-15 10:40:21:163] appWin.showUrl internal: Start rendering
+[2023-06-15 10:40:21:164] appWin.showUrl to app.html finish
+[2023-06-15 10:46:16:240] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-15 10:46:51:249] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-15 11:14:16:558] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-15 11:23:49:754] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-15 11:24:24:756] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-15 11:50:43:554] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-15 12:04:59:060] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-15 12:11:42:604] Uncaught TypeError: warningData.reverse is not a function

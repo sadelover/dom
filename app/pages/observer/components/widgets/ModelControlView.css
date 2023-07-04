@@ -1,0 +1,16 @@
+.container {
+  position: absolute;
+  color: #ffffff;
+  z-index: 2;
+}
+
+.btn {
+  width:170px;
+  height:30px;
+  font-size: 13px;
+  background-color: #60b8fa;
+  color: #ffffff;
+  margin-bottom: 7px;
+  opacity: 0.5;
+}
+

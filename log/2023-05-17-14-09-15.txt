@@ -1,0 +1,54 @@
+[2023-05-17 14:09:15:078] app on ready
+[2023-05-17 14:09:15:078] start to install extensions
+[2023-05-17 14:09:15:078] argv.length6
+[2023-05-17 14:09:15:079] x0
+[2023-05-17 14:09:15:079] y0
+[2023-05-17 14:09:15:079] appWindowWidth--960
+[2023-05-17 14:09:15:079] appWindowHeight--516
+[2023-05-17 14:09:15:079] countNaN
+[2023-05-17 14:09:15:080] countstring
+[2023-05-17 14:09:15:080] count-r
+[2023-05-17 14:09:15:080] No-r
+[2023-05-17 14:09:15:080] the install param {isDev}: true
+[2023-05-17 14:09:15:110] begin to download extensions!
+[2023-05-17 14:09:15:825] start to install extensions,total cost: 745
+[2023-05-17 14:09:15:825] createLoginWindow finish
+[2023-05-17 14:09:15:826] createLoginWindow start act
+[2023-05-17 14:09:15:826] electronWindow.createWindow start
+[2023-05-17 14:09:15:858] electronWindow.createWindow finish
+[2023-05-17 14:09:15:859] addDebugContextMenu start
+[2023-05-17 14:09:15:859] addDebugContextMenu finish
+[2023-05-17 14:09:15:859] loginWin.showUrl to login.html start
+[2023-05-17 14:09:15:872] loginWin.showUrl to login.html finish
+[2023-05-17 14:13:49:871] loginWin.showUrl internal act...
+[2023-05-17 14:28:26:239] loginWin.hide start
+[2023-05-17 14:28:26:239] loginWin.hide finish
+[2023-05-17 14:28:26:240] createAppWindow start
+[2023-05-17 14:28:26:240] electronWindow.createWindow start
+[2023-05-17 14:28:26:247] electronWindow.createWindow finish
+[2023-05-17 14:28:26:247] appWin.maximize
+[2023-05-17 14:28:26:265] addDebugContextMenu to appWin
+[2023-05-17 14:28:26:265] appWin.showUrl to app.html start
+[2023-05-17 14:28:26:271] createAppWindow finish
+[2023-05-17 14:28:26:271] loginWin start
+[2023-05-17 14:28:26:271] destroyWindow
+[2023-05-17 14:28:26:272] win close start
+[2023-05-17 14:28:26:273] win close finish
+[2023-05-17 14:28:26:273] loginWin finish
+[2023-05-17 14:28:28:463] appWin.showUrl internal: Start rendering
+[2023-05-17 14:28:28:464] appWin.showUrl to app.html finish
+[2023-05-17 14:28:56:014] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:29:13:699] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:30:00:494] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:30:14:073] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:30:23:735] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:30:33:147] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:30:36:899] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:30:42:974] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:30:45:047] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:33:52:338] Uncaught TypeError: Cannot read property 'CWPOnOffSetting02' of null
+[2023-05-17 14:33:52:339] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-05-17 14:34:28:612] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:34:36:999] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:34:39:273] Uncaught SyntaxError: Unexpected identifier
+[2023-05-17 14:34:54:734] ipcMain.on commands.CLOSE_APP_WINDOW

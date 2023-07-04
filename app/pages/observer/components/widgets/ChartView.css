@@ -1,0 +1,28 @@
+.container {
+    position: relative;
+    height: 100%;
+  }
+  
+  .header {
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  .options {
+    float: right;
+    font-size: 12px;
+  }
+ 
+  .options > button {
+    margin-right: 8px;
+  }
+  
+  .chart-container {
+    position: absolute;
+    top: 0;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+  }

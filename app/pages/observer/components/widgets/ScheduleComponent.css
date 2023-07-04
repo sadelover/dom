@@ -1,0 +1,32 @@
+.table-container{
+    position: absolute;
+    /* width: 515px;
+    height: 287px;
+    top: 609px;
+    left:377px; */
+    color: #000000;
+    z-index: 2;
+}
+
+.cell{
+    color:  #ffffff;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    text-align: center
+}
+.cell:hover{
+    background: #ffffff
+}
+
+.time{
+    color:  #ffffff;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    text-align: center
+}
+.tittle{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

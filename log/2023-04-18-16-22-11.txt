@@ -1,0 +1,45 @@
+[2023-04-18 16:22:11:986] app on ready
+[2023-04-18 16:22:11:986] start to install extensions
+[2023-04-18 16:22:11:987] argv.length6
+[2023-04-18 16:22:11:987] x0
+[2023-04-18 16:22:11:987] y0
+[2023-04-18 16:22:11:987] appWindowWidth--960
+[2023-04-18 16:22:11:987] appWindowHeight--516
+[2023-04-18 16:22:11:988] countNaN
+[2023-04-18 16:22:11:988] countstring
+[2023-04-18 16:22:11:988] count-r
+[2023-04-18 16:22:11:988] No-r
+[2023-04-18 16:22:11:988] the install param {isDev}: true
+[2023-04-18 16:22:12:021] begin to download extensions!
+[2023-04-18 16:22:12:866] start to install extensions,total cost: 878
+[2023-04-18 16:22:12:866] createLoginWindow finish
+[2023-04-18 16:22:12:866] createLoginWindow start act
+[2023-04-18 16:22:12:866] electronWindow.createWindow start
+[2023-04-18 16:22:12:890] electronWindow.createWindow finish
+[2023-04-18 16:22:12:891] addDebugContextMenu start
+[2023-04-18 16:22:12:891] addDebugContextMenu finish
+[2023-04-18 16:22:12:891] loginWin.showUrl to login.html start
+[2023-04-18 16:22:12:905] loginWin.showUrl to login.html finish
+[2023-04-18 16:27:04:371] loginWin.showUrl internal act...
+[2023-04-18 16:27:34:438] loginWin.hide start
+[2023-04-18 16:27:34:438] loginWin.hide finish
+[2023-04-18 16:27:34:438] createAppWindow start
+[2023-04-18 16:27:34:438] electronWindow.createWindow start
+[2023-04-18 16:27:34:448] electronWindow.createWindow finish
+[2023-04-18 16:27:34:448] appWin.maximize
+[2023-04-18 16:27:34:467] addDebugContextMenu to appWin
+[2023-04-18 16:27:34:468] appWin.showUrl to app.html start
+[2023-04-18 16:27:34:472] createAppWindow finish
+[2023-04-18 16:27:34:472] loginWin start
+[2023-04-18 16:27:34:473] destroyWindow
+[2023-04-18 16:27:34:473] win close start
+[2023-04-18 16:27:34:473] win close finish
+[2023-04-18 16:27:34:474] loginWin finish
+[2023-04-18 16:27:36:385] appWin.showUrl internal: Start rendering
+[2023-04-18 16:27:36:386] appWin.showUrl to app.html finish
+[2023-04-18 17:07:38:686] Uncaught TypeError: Cannot read property 'CWTempDiff' of null
+[2023-04-18 17:07:38:686] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-18 17:43:55:429] Uncaught TypeError: Cannot read property 'info' of undefined
+[2023-04-18 17:44:18:464] Uncaught TypeError: Cannot read property 'info' of undefined
+[2023-04-18 17:47:13:316] Uncaught TypeError: Cannot read property 'PriChWPMaintainOnOff04' of null
+[2023-04-18 17:47:13:317] Uncaught TypeError: Cannot read property 'customControls' of null

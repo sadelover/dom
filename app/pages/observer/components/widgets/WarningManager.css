@@ -1,0 +1,27 @@
+.container{
+    position: absolute;
+    color: #ffffff;
+    /* background-color: #FFFFFF; */
+    z-index: 2;
+}
+.date-btns-wrap{
+    text-align: center;
+    margin: 7px 0px 30px;
+}
+
+.date-btns-wrap .ant-calendar-in-range-cell:before{
+    content: '';
+    display: block;
+    background: #2EA2F8 !important;
+    border-radius: 0;
+    border: 0;
+    position: absolute; 
+    top: 4px;
+    bottom: 4px;
+    left: 0;
+    right: 0;
+}
+
+.table-wrap{
+    padding: 0 20px 12px;
+}

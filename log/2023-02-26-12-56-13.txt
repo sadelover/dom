@@ -1,0 +1,52 @@
+[2023-02-26 12:56:13:668] app on ready
+[2023-02-26 12:56:13:668] start to install extensions
+[2023-02-26 12:56:13:668] argv.length6
+[2023-02-26 12:56:13:669] x0
+[2023-02-26 12:56:13:669] y0
+[2023-02-26 12:56:13:669] appWindowWidth--853
+[2023-02-26 12:56:13:669] appWindowHeight--509
+[2023-02-26 12:56:13:669] countNaN
+[2023-02-26 12:56:13:669] countstring
+[2023-02-26 12:56:13:670] count-r
+[2023-02-26 12:56:13:670] No-r
+[2023-02-26 12:56:13:670] the install param {isDev}: true
+[2023-02-26 12:56:13:693] begin to download extensions!
+[2023-02-26 12:57:21:785] start to install extensions,total cost: 68115
+[2023-02-26 12:57:21:786] createLoginWindow finish
+[2023-02-26 12:57:21:786] createLoginWindow start act
+[2023-02-26 12:57:21:786] electronWindow.createWindow start
+[2023-02-26 12:57:21:804] electronWindow.createWindow finish
+[2023-02-26 12:57:21:804] addDebugContextMenu start
+[2023-02-26 12:57:21:804] addDebugContextMenu finish
+[2023-02-26 12:57:21:805] loginWin.showUrl to login.html start
+[2023-02-26 12:57:21:811] loginWin.showUrl to login.html finish
+[2023-02-26 13:00:30:808] loginWin.showUrl internal act...
+[2023-02-26 13:02:07:799] loginWin.hide start
+[2023-02-26 13:02:07:799] loginWin.hide finish
+[2023-02-26 13:02:07:799] createAppWindow start
+[2023-02-26 13:02:07:800] electronWindow.createWindow start
+[2023-02-26 13:02:07:808] electronWindow.createWindow finish
+[2023-02-26 13:02:07:809] appWin.maximize
+[2023-02-26 13:02:07:827] addDebugContextMenu to appWin
+[2023-02-26 13:02:07:827] appWin.showUrl to app.html start
+[2023-02-26 13:02:07:832] createAppWindow finish
+[2023-02-26 13:02:07:832] loginWin start
+[2023-02-26 13:02:07:833] destroyWindow
+[2023-02-26 13:02:07:833] win close start
+[2023-02-26 13:02:07:834] win close finish
+[2023-02-26 13:02:07:834] loginWin finish
+[2023-02-26 13:02:10:221] appWin.showUrl internal: Start rendering
+[2023-02-26 13:02:10:222] appWin.showUrl to app.html finish
+[2023-02-26 13:02:27:711] Uncaught TypeError: Cannot read property 'OutdoorTdbin' of null
+[2023-02-26 13:02:27:711] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-02-26 13:04:20:012] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:05:05:006] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:06:04:165] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:07:28:452] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:14:43:137] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:17:42:685] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:22:43:080] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:23:47:184] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:31:59:821] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:32:43:356] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:32:53:420] ipcMain.on commands.MINIMIZE_APP_WINDOW

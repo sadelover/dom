@@ -1,0 +1,7 @@
+{
+    "name": "TimerStyle",
+    "version": "0.1.0",
+    "private": true,
+    "main": "./TimerStyle.js"
+  }
+  

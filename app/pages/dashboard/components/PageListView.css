@@ -1,0 +1,59 @@
+.container * {
+  transition: all .15s linear;
+}
+.page-list-item {
+  overflow: hidden;
+  height: 64px;
+  color: #fff;
+  padding: 8px 0;
+  background: #16191C;
+  cursor: pointer;
+}
+.page-list-item:hover, .page-list-item.open {
+  background: #2EA1F8;
+}
+.item-left {
+  float: left;
+  width: 190px;
+  height: 48px;
+  padding-left: 16px;
+}
+.item-right {
+  float: right;
+  width: 48px;
+  height: 48px;
+  line-height: 48px;
+  text-align: center;
+}
+.item-name {
+  height: 48px;
+  line-height: 48px;
+}
+.item-name {
+  font-size: 16px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.item-type {
+  color: #717D89;
+}
+.item-right button {
+  opacity: 0;
+  width: 16px !important;
+  height: 16px !important;
+  line-height: 16px !important;
+  margin-left: 5px;
+  background: #eee;
+  border: none;
+  color: #F95359;
+  font-weight: bold;
+}
+.page-list-item:hover .item-right button {
+  opacity: .9;
+  background: #eee;
+  color: #F95359;
+}
+.item-right button:hover {
+  transform: rotateZ(180deg);
+}

@@ -1,0 +1,33 @@
+.select-body{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+.header{
+    text-align: center;
+}
+.select-left,.select-right{
+    width:150px;
+    min-height:200px;
+    color:black;
+}
+.btn-bar input{
+    width:50px;
+}
+.span2{
+   display:inline-block;
+   vertical-align: middle;
+   margin-left:20px;
+}
+.showDiv{
+    display:block;
+ }
+ .hideDiv{
+    display:none;
+ }
+ .btn{
+     color:black;
+ }
+ .btn-common{
+    margin-left: 10;
+}

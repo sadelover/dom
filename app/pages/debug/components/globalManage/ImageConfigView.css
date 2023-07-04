@@ -1,0 +1,14 @@
+.container{
+    width: 600px;
+    height: 100%;
+    margin: 0 auto;
+}
+.logo-pre{
+    width : 600px;
+    height: 437px;
+}
+
+.logo-pre > img {
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,41 @@
+[2023-04-11 15:21:59:006] app on ready
+[2023-04-11 15:21:59:006] start to install extensions
+[2023-04-11 15:21:59:006] argv.length6
+[2023-04-11 15:21:59:006] x0
+[2023-04-11 15:21:59:007] y0
+[2023-04-11 15:21:59:007] appWindowWidth--960
+[2023-04-11 15:21:59:007] appWindowHeight--516
+[2023-04-11 15:21:59:007] countNaN
+[2023-04-11 15:21:59:007] countstring
+[2023-04-11 15:21:59:007] count-r
+[2023-04-11 15:21:59:007] No-r
+[2023-04-11 15:21:59:008] the install param {isDev}: true
+[2023-04-11 15:21:59:039] begin to download extensions!
+[2023-04-11 15:22:00:025] start to install extensions,total cost: 1018
+[2023-04-11 15:22:00:025] createLoginWindow finish
+[2023-04-11 15:22:00:026] createLoginWindow start act
+[2023-04-11 15:22:00:026] electronWindow.createWindow start
+[2023-04-11 15:22:00:047] electronWindow.createWindow finish
+[2023-04-11 15:22:00:047] addDebugContextMenu start
+[2023-04-11 15:22:00:047] addDebugContextMenu finish
+[2023-04-11 15:22:00:047] loginWin.showUrl to login.html start
+[2023-04-11 15:22:00:054] loginWin.showUrl to login.html finish
+[2023-04-11 15:26:29:079] loginWin.showUrl internal act...
+[2023-04-11 15:27:35:193] loginWin.hide start
+[2023-04-11 15:27:35:193] loginWin.hide finish
+[2023-04-11 15:27:35:193] createAppWindow start
+[2023-04-11 15:27:35:193] electronWindow.createWindow start
+[2023-04-11 15:27:35:200] electronWindow.createWindow finish
+[2023-04-11 15:27:35:200] appWin.maximize
+[2023-04-11 15:27:35:215] addDebugContextMenu to appWin
+[2023-04-11 15:27:35:216] appWin.showUrl to app.html start
+[2023-04-11 15:27:35:221] createAppWindow finish
+[2023-04-11 15:27:35:221] loginWin start
+[2023-04-11 15:27:35:222] destroyWindow
+[2023-04-11 15:27:35:222] win close start
+[2023-04-11 15:27:35:222] win close finish
+[2023-04-11 15:27:35:223] loginWin finish
+[2023-04-11 15:27:37:412] appWin.showUrl internal: Start rendering
+[2023-04-11 15:27:37:412] appWin.showUrl to app.html finish
+[2023-04-11 17:31:36:137] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-11 18:04:35:514] ipcMain.on commands.CLOSE_APP_WINDOW

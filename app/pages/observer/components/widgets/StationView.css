@@ -1,0 +1,20 @@
+.container{
+    position: absolute;
+    color: #ffffff;
+    /* background-color: #FFFFFF; */
+    z-index: 2;
+}
+
+.green{
+    background:#00FF00;
+    display:inline-block;
+    border:1px solid #666;
+    cursor:pointer;
+}
+
+.red{
+    background:#FF0033;
+    display:inline-block;
+    border:1px solid #666;
+    cursor:pointer;
+}

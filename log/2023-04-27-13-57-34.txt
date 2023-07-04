@@ -1,0 +1,44 @@
+[2023-04-27 13:57:34:727] app on ready
+[2023-04-27 13:57:34:728] start to install extensions
+[2023-04-27 13:57:34:728] argv.length6
+[2023-04-27 13:57:34:729] x0
+[2023-04-27 13:57:34:729] y0
+[2023-04-27 13:57:34:729] appWindowWidth--960
+[2023-04-27 13:57:34:729] appWindowHeight--516
+[2023-04-27 13:57:34:729] countNaN
+[2023-04-27 13:57:34:729] countstring
+[2023-04-27 13:57:34:730] count-r
+[2023-04-27 13:57:34:730] No-r
+[2023-04-27 13:57:34:730] the install param {isDev}: true
+[2023-04-27 13:57:34:765] begin to download extensions!
+[2023-04-27 13:58:42:940] start to install extensions,total cost: 68209
+[2023-04-27 13:58:42:940] createLoginWindow finish
+[2023-04-27 13:58:42:940] createLoginWindow start act
+[2023-04-27 13:58:42:940] electronWindow.createWindow start
+[2023-04-27 13:58:42:992] electronWindow.createWindow finish
+[2023-04-27 13:58:42:993] addDebugContextMenu start
+[2023-04-27 13:58:42:993] addDebugContextMenu finish
+[2023-04-27 13:58:42:994] loginWin.showUrl to login.html start
+[2023-04-27 13:58:43:012] loginWin.showUrl to login.html finish
+[2023-04-27 14:02:10:924] loginWin.showUrl internal act...
+[2023-04-27 14:02:30:346] loginWin.hide start
+[2023-04-27 14:02:30:346] loginWin.hide finish
+[2023-04-27 14:02:30:346] createAppWindow start
+[2023-04-27 14:02:30:347] electronWindow.createWindow start
+[2023-04-27 14:02:30:354] electronWindow.createWindow finish
+[2023-04-27 14:02:30:354] appWin.maximize
+[2023-04-27 14:02:30:371] addDebugContextMenu to appWin
+[2023-04-27 14:02:30:371] appWin.showUrl to app.html start
+[2023-04-27 14:02:30:377] createAppWindow finish
+[2023-04-27 14:02:30:378] loginWin start
+[2023-04-27 14:02:30:378] destroyWindow
+[2023-04-27 14:02:30:378] win close start
+[2023-04-27 14:02:30:378] win close finish
+[2023-04-27 14:02:30:379] loginWin finish
+[2023-04-27 14:02:32:758] appWin.showUrl internal: Start rendering
+[2023-04-27 14:02:32:758] appWin.showUrl to app.html finish
+[2023-04-27 14:26:28:409] Uncaught TypeError: Cannot read property 'leoValveEnabled01' of null
+[2023-04-27 14:26:28:409] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-27 14:28:52:216] Uncaught TypeError: Cannot read property 'leoValveEnabled01' of null
+[2023-04-27 14:28:52:217] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-27 14:40:38:680] ipcMain.on commands.CLOSE_APP_WINDOW

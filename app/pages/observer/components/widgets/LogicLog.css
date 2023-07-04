@@ -1,0 +1,19 @@
+.container{
+    position: absolute;
+    color: #ffffff;
+    background-color:rgb(28,36,49);
+    z-index: 2;
+}
+
+.body{
+    margin: 10px;
+    user-select: text;
+}
+
+.left{
+    margin-left: 10px;
+}
+
+.header{
+    margin-bottom: 10px;
+}

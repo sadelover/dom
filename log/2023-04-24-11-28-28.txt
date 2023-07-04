@@ -1,0 +1,44 @@
+[2023-04-24 11:28:28:936] app on ready
+[2023-04-24 11:28:28:937] start to install extensions
+[2023-04-24 11:28:28:937] argv.length6
+[2023-04-24 11:28:28:937] x0
+[2023-04-24 11:28:28:937] y0
+[2023-04-24 11:28:28:937] appWindowWidth--960
+[2023-04-24 11:28:28:937] appWindowHeight--516
+[2023-04-24 11:28:28:938] countNaN
+[2023-04-24 11:28:28:938] countstring
+[2023-04-24 11:28:28:938] count-r
+[2023-04-24 11:28:28:938] No-r
+[2023-04-24 11:28:28:938] the install param {isDev}: true
+[2023-04-24 11:28:28:968] begin to download extensions!
+[2023-04-24 11:28:29:752] start to install extensions,total cost: 814
+[2023-04-24 11:28:29:752] createLoginWindow finish
+[2023-04-24 11:28:29:752] createLoginWindow start act
+[2023-04-24 11:28:29:752] electronWindow.createWindow start
+[2023-04-24 11:28:29:770] electronWindow.createWindow finish
+[2023-04-24 11:28:29:770] addDebugContextMenu start
+[2023-04-24 11:28:29:770] addDebugContextMenu finish
+[2023-04-24 11:28:29:770] loginWin.showUrl to login.html start
+[2023-04-24 11:28:29:778] loginWin.showUrl to login.html finish
+[2023-04-24 11:33:40:491] loginWin.showUrl internal act...
+[2023-04-24 11:34:32:530] loginWin.hide start
+[2023-04-24 11:34:32:530] loginWin.hide finish
+[2023-04-24 11:34:32:531] createAppWindow start
+[2023-04-24 11:34:32:531] electronWindow.createWindow start
+[2023-04-24 11:34:32:537] electronWindow.createWindow finish
+[2023-04-24 11:34:32:538] appWin.maximize
+[2023-04-24 11:34:32:552] addDebugContextMenu to appWin
+[2023-04-24 11:34:32:553] appWin.showUrl to app.html start
+[2023-04-24 11:34:32:556] createAppWindow finish
+[2023-04-24 11:34:32:557] loginWin start
+[2023-04-24 11:34:32:557] destroyWindow
+[2023-04-24 11:34:32:557] win close start
+[2023-04-24 11:34:32:558] win close finish
+[2023-04-24 11:34:32:559] loginWin finish
+[2023-04-24 11:34:34:741] appWin.showUrl internal: Start rendering
+[2023-04-24 11:34:34:742] appWin.showUrl to app.html finish
+[2023-04-24 11:42:40:192] Uncaught TypeError: Cannot read property 'Plant01CTMaintainOnOff05' of null
+[2023-04-24 11:42:40:193] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-24 11:47:59:656] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-24 11:50:45:258] Uncaught TypeError: Cannot read property 'Plant01CTMaintainOnOff05' of null
+[2023-04-24 11:50:45:258] Uncaught TypeError: Cannot read property 'customControls' of null

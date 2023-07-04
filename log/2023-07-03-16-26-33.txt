@@ -1,0 +1,90 @@
+[2023-07-03 16:26:33:909] app on ready
+[2023-07-03 16:26:33:909] start to install extensions
+[2023-07-03 16:26:33:910] argv.length6
+[2023-07-03 16:26:33:910] x0
+[2023-07-03 16:26:33:910] y0
+[2023-07-03 16:26:33:910] appWindowWidth--960
+[2023-07-03 16:26:33:910] appWindowHeight--516
+[2023-07-03 16:26:33:910] countNaN
+[2023-07-03 16:26:33:911] countstring
+[2023-07-03 16:26:33:911] count-r
+[2023-07-03 16:26:33:911] No-r
+[2023-07-03 16:26:33:911] the install param {isDev}: true
+[2023-07-03 16:26:33:937] begin to download extensions!
+[2023-07-03 16:26:35:574] start to install extensions,total cost: 1663
+[2023-07-03 16:26:35:574] createLoginWindow finish
+[2023-07-03 16:26:35:574] createLoginWindow start act
+[2023-07-03 16:26:35:574] electronWindow.createWindow start
+[2023-07-03 16:26:35:588] electronWindow.createWindow finish
+[2023-07-03 16:26:35:589] addDebugContextMenu start
+[2023-07-03 16:26:35:589] addDebugContextMenu finish
+[2023-07-03 16:26:35:589] loginWin.showUrl to login.html start
+[2023-07-03 16:26:35:596] loginWin.showUrl to login.html finish
+[2023-07-03 16:31:12:702] loginWin.showUrl internal act...
+[2023-07-03 16:31:22:693] loginWin.hide start
+[2023-07-03 16:31:22:693] loginWin.hide finish
+[2023-07-03 16:31:22:693] createAppWindow start
+[2023-07-03 16:31:22:694] electronWindow.createWindow start
+[2023-07-03 16:31:22:699] electronWindow.createWindow finish
+[2023-07-03 16:31:22:700] appWin.maximize
+[2023-07-03 16:31:22:717] addDebugContextMenu to appWin
+[2023-07-03 16:31:22:717] appWin.showUrl to app.html start
+[2023-07-03 16:31:22:726] createAppWindow finish
+[2023-07-03 16:31:22:726] loginWin start
+[2023-07-03 16:31:22:726] destroyWindow
+[2023-07-03 16:31:22:727] win close start
+[2023-07-03 16:31:22:727] win close finish
+[2023-07-03 16:31:22:727] loginWin finish
+[2023-07-03 16:31:24:951] appWin.showUrl internal: Start rendering
+[2023-07-03 16:31:24:951] appWin.showUrl to app.html finish
+[2023-07-03 17:08:39:676] Uncaught TypeError: Cannot read property 'ChPowerPercent01' of null
+[2023-07-03 17:08:39:676] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:09:38:713] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:09:38:714] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:09:48:400] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:09:48:401] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:15:16:654] Uncaught TypeError: Cannot read property 'ChPowerPercent01' of null
+[2023-07-03 17:15:16:655] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:15:59:999] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:16:00:000] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:16:06:019] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:16:06:019] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:17:33:257] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:17:33:257] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:17:37:878] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:17:37:879] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:19:06:811] Uncaught TypeError: Cannot read property 'ChPowerPercent01' of null
+[2023-07-03 17:19:06:812] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:19:40:656] Uncaught TypeError: Cannot read property 'ChPowerPercent01' of null
+[2023-07-03 17:19:40:657] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:20:54:003] Uncaught TypeError: Cannot read property 'ChPowerPercent01' of null
+[2023-07-03 17:20:54:003] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:23:18:623] Uncaught TypeError: Cannot read property 'ChPowerPercent01' of null
+[2023-07-03 17:23:18:623] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:24:40:467] Uncaught TypeError: Cannot read property 'ChPowerPercent01' of null
+[2023-07-03 17:24:40:467] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:25:25:155] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:25:25:155] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:25:32:248] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:25:32:248] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:29:16:244] Uncaught TypeError: Cannot read property 'ChPowerPercent01' of null
+[2023-07-03 17:29:16:245] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:31:01:091] Uncaught TypeError: Cannot read property 'ChPowerPercent01' of null
+[2023-07-03 17:31:01:092] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:32:23:116] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:32:23:117] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:32:28:173] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:32:28:173] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:35:09:372] Uncaught TypeError: Cannot read property 'ChPowerPercent01' of null
+[2023-07-03 17:35:09:373] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:37:15:176] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:37:15:176] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:37:22:330] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:37:22:330] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:38:10:343] Uncaught TypeError: Cannot read property 'ChPowerPercent01' of null
+[2023-07-03 17:38:10:343] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:39:15:566] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:39:15:567] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:39:20:992] Uncaught TypeError: Cannot read property 'OptimizeCWDTSetting' of null
+[2023-07-03 17:39:20:992] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 17:39:30:102] ipcMain.on commands.CLOSE_APP_WINDOW

@@ -1,0 +1,40 @@
+[2023-04-21 09:25:14:536] app on ready
+[2023-04-21 09:25:14:537] start to install extensions
+[2023-04-21 09:25:14:537] argv.length6
+[2023-04-21 09:25:14:537] x0
+[2023-04-21 09:25:14:537] y0
+[2023-04-21 09:25:14:538] appWindowWidth--960
+[2023-04-21 09:25:14:538] appWindowHeight--516
+[2023-04-21 09:25:14:538] countNaN
+[2023-04-21 09:25:14:538] countstring
+[2023-04-21 09:25:14:538] count-r
+[2023-04-21 09:25:14:538] No-r
+[2023-04-21 09:25:14:539] the install param {isDev}: true
+[2023-04-21 09:25:14:566] begin to download extensions!
+[2023-04-21 09:25:35:842] start to install extensions,total cost: 21303
+[2023-04-21 09:25:35:842] createLoginWindow finish
+[2023-04-21 09:25:35:842] createLoginWindow start act
+[2023-04-21 09:25:35:842] electronWindow.createWindow start
+[2023-04-21 09:25:35:877] electronWindow.createWindow finish
+[2023-04-21 09:25:35:878] addDebugContextMenu start
+[2023-04-21 09:25:35:878] addDebugContextMenu finish
+[2023-04-21 09:25:35:878] loginWin.showUrl to login.html start
+[2023-04-21 09:25:35:891] loginWin.showUrl to login.html finish
+[2023-04-21 09:29:53:321] loginWin.showUrl internal act...
+[2023-04-21 09:30:03:630] loginWin.hide start
+[2023-04-21 09:30:03:631] loginWin.hide finish
+[2023-04-21 09:30:03:631] createAppWindow start
+[2023-04-21 09:30:03:631] electronWindow.createWindow start
+[2023-04-21 09:30:03:636] electronWindow.createWindow finish
+[2023-04-21 09:30:03:637] appWin.maximize
+[2023-04-21 09:30:03:650] addDebugContextMenu to appWin
+[2023-04-21 09:30:03:651] appWin.showUrl to app.html start
+[2023-04-21 09:30:03:654] createAppWindow finish
+[2023-04-21 09:30:03:654] loginWin start
+[2023-04-21 09:30:03:654] destroyWindow
+[2023-04-21 09:30:03:655] win close start
+[2023-04-21 09:30:03:655] win close finish
+[2023-04-21 09:30:03:655] loginWin finish
+[2023-04-21 09:30:05:872] appWin.showUrl internal: Start rendering
+[2023-04-21 09:30:05:872] appWin.showUrl to app.html finish
+[2023-04-21 09:31:23:692] Uncaught SyntaxError: Unexpected identifier

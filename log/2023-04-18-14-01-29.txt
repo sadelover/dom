@@ -1,0 +1,40 @@
+[2023-04-18 14:01:29:015] app on ready
+[2023-04-18 14:01:29:015] start to install extensions
+[2023-04-18 14:01:29:015] argv.length6
+[2023-04-18 14:01:29:016] x0
+[2023-04-18 14:01:29:016] y0
+[2023-04-18 14:01:29:016] appWindowWidth--960
+[2023-04-18 14:01:29:016] appWindowHeight--516
+[2023-04-18 14:01:29:016] countNaN
+[2023-04-18 14:01:29:016] countstring
+[2023-04-18 14:01:29:017] count-r
+[2023-04-18 14:01:29:017] No-r
+[2023-04-18 14:01:29:017] the install param {isDev}: true
+[2023-04-18 14:01:29:049] begin to download extensions!
+[2023-04-18 14:01:30:005] start to install extensions,total cost: 988
+[2023-04-18 14:01:30:005] createLoginWindow finish
+[2023-04-18 14:01:30:005] createLoginWindow start act
+[2023-04-18 14:01:30:006] electronWindow.createWindow start
+[2023-04-18 14:01:30:049] electronWindow.createWindow finish
+[2023-04-18 14:01:30:050] addDebugContextMenu start
+[2023-04-18 14:01:30:051] addDebugContextMenu finish
+[2023-04-18 14:01:30:051] loginWin.showUrl to login.html start
+[2023-04-18 14:01:30:067] loginWin.showUrl to login.html finish
+[2023-04-18 14:06:03:224] loginWin.showUrl internal act...
+[2023-04-18 14:07:50:264] loginWin.hide start
+[2023-04-18 14:07:50:265] loginWin.hide finish
+[2023-04-18 14:07:50:265] createAppWindow start
+[2023-04-18 14:07:50:265] electronWindow.createWindow start
+[2023-04-18 14:07:50:275] electronWindow.createWindow finish
+[2023-04-18 14:07:50:276] appWin.maximize
+[2023-04-18 14:07:50:294] addDebugContextMenu to appWin
+[2023-04-18 14:07:50:295] appWin.showUrl to app.html start
+[2023-04-18 14:07:50:305] createAppWindow finish
+[2023-04-18 14:07:50:305] loginWin start
+[2023-04-18 14:07:50:305] destroyWindow
+[2023-04-18 14:07:50:306] win close start
+[2023-04-18 14:07:50:306] win close finish
+[2023-04-18 14:07:50:306] loginWin finish
+[2023-04-18 14:07:52:571] appWin.showUrl internal: Start rendering
+[2023-04-18 14:07:52:572] appWin.showUrl to app.html finish
+[2023-04-18 14:29:29:784] Uncaught TypeError: data.slice is not a function

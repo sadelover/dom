@@ -1,0 +1,42 @@
+[2023-06-07 09:16:29:221] app on ready
+[2023-06-07 09:16:29:221] start to install extensions
+[2023-06-07 09:16:29:222] argv.length6
+[2023-06-07 09:16:29:222] x0
+[2023-06-07 09:16:29:222] y0
+[2023-06-07 09:16:29:222] appWindowWidth--960
+[2023-06-07 09:16:29:222] appWindowHeight--516
+[2023-06-07 09:16:29:223] countNaN
+[2023-06-07 09:16:29:223] countstring
+[2023-06-07 09:16:29:223] count-r
+[2023-06-07 09:16:29:223] No-r
+[2023-06-07 09:16:29:223] the install param {isDev}: true
+[2023-06-07 09:16:29:250] begin to download extensions!
+[2023-06-07 09:16:30:342] start to install extensions,total cost: 1119
+[2023-06-07 09:16:30:342] createLoginWindow finish
+[2023-06-07 09:16:30:343] createLoginWindow start act
+[2023-06-07 09:16:30:343] electronWindow.createWindow start
+[2023-06-07 09:16:30:375] electronWindow.createWindow finish
+[2023-06-07 09:16:30:375] addDebugContextMenu start
+[2023-06-07 09:16:30:376] addDebugContextMenu finish
+[2023-06-07 09:16:30:376] loginWin.showUrl to login.html start
+[2023-06-07 09:16:30:389] loginWin.showUrl to login.html finish
+[2023-06-07 09:21:06:748] loginWin.showUrl internal act...
+[2023-06-07 09:21:44:422] loginWin.hide start
+[2023-06-07 09:21:44:422] loginWin.hide finish
+[2023-06-07 09:21:44:422] createAppWindow start
+[2023-06-07 09:21:44:423] electronWindow.createWindow start
+[2023-06-07 09:21:44:429] electronWindow.createWindow finish
+[2023-06-07 09:21:44:429] appWin.maximize
+[2023-06-07 09:21:44:444] addDebugContextMenu to appWin
+[2023-06-07 09:21:44:445] appWin.showUrl to app.html start
+[2023-06-07 09:21:44:451] createAppWindow finish
+[2023-06-07 09:21:44:452] loginWin start
+[2023-06-07 09:21:44:452] destroyWindow
+[2023-06-07 09:21:44:452] win close start
+[2023-06-07 09:21:44:452] win close finish
+[2023-06-07 09:21:44:453] loginWin finish
+[2023-06-07 09:21:46:577] appWin.showUrl internal: Start rendering
+[2023-06-07 09:21:46:578] appWin.showUrl to app.html finish
+[2023-06-07 09:35:48:508] Uncaught TypeError: Cannot read property 'ChMaintainOnOff01' of null
+[2023-06-07 09:35:48:509] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-06-07 09:36:13:172] appWin.webContents.on crashed

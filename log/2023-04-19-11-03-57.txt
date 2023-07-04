@@ -1,0 +1,54 @@
+[2023-04-19 11:03:57:839] app on ready
+[2023-04-19 11:03:57:840] start to install extensions
+[2023-04-19 11:03:57:840] argv.length6
+[2023-04-19 11:03:57:840] x0
+[2023-04-19 11:03:57:840] y0
+[2023-04-19 11:03:57:840] appWindowWidth--960
+[2023-04-19 11:03:57:841] appWindowHeight--516
+[2023-04-19 11:03:57:841] countNaN
+[2023-04-19 11:03:57:841] countstring
+[2023-04-19 11:03:57:841] count-r
+[2023-04-19 11:03:57:841] No-r
+[2023-04-19 11:03:57:841] the install param {isDev}: true
+[2023-04-19 11:03:57:870] begin to download extensions!
+[2023-04-19 11:03:58:715] start to install extensions,total cost: 874
+[2023-04-19 11:03:58:715] createLoginWindow finish
+[2023-04-19 11:03:58:716] createLoginWindow start act
+[2023-04-19 11:03:58:716] electronWindow.createWindow start
+[2023-04-19 11:03:58:734] electronWindow.createWindow finish
+[2023-04-19 11:03:58:734] addDebugContextMenu start
+[2023-04-19 11:03:58:734] addDebugContextMenu finish
+[2023-04-19 11:03:58:734] loginWin.showUrl to login.html start
+[2023-04-19 11:03:58:741] loginWin.showUrl to login.html finish
+[2023-04-19 11:08:29:648] loginWin.showUrl internal act...
+[2023-04-19 11:08:45:742] loginWin.hide start
+[2023-04-19 11:08:45:743] loginWin.hide finish
+[2023-04-19 11:08:45:743] createAppWindow start
+[2023-04-19 11:08:45:743] electronWindow.createWindow start
+[2023-04-19 11:08:45:750] electronWindow.createWindow finish
+[2023-04-19 11:08:45:750] appWin.maximize
+[2023-04-19 11:08:45:766] addDebugContextMenu to appWin
+[2023-04-19 11:08:45:767] appWin.showUrl to app.html start
+[2023-04-19 11:08:45:770] createAppWindow finish
+[2023-04-19 11:08:45:771] loginWin start
+[2023-04-19 11:08:45:771] destroyWindow
+[2023-04-19 11:08:45:771] win close start
+[2023-04-19 11:08:45:771] win close finish
+[2023-04-19 11:08:45:772] loginWin finish
+[2023-04-19 11:08:47:957] appWin.showUrl internal: Start rendering
+[2023-04-19 11:08:47:957] appWin.showUrl to app.html finish
+[2023-04-19 11:14:55:541] Uncaught TypeError: Cannot read property 'PriChWPMaintainOnOff04' of null
+[2023-04-19 11:14:55:541] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 11:19:56:342] Uncaught TypeError: Cannot read property 'PriChWPMaintainOnOff04' of null
+[2023-04-19 11:19:56:343] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 11:19:56:985] Uncaught TypeError: Cannot read property 'drawMeterPan' of undefined
+[2023-04-19 11:19:56:986] Uncaught TypeError: Cannot read property 'drawMeterPointer' of undefined
+[2023-04-19 11:27:53:806] Uncaught TypeError: Cannot read property 'PriChWPMaintainOnOff04' of null
+[2023-04-19 11:27:53:807] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 11:31:13:389] Uncaught TypeError: Cannot read property 'PriChWPMaintainOnOff04' of null
+[2023-04-19 11:31:13:390] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 12:06:17:078] Uncaught TypeError: warningData.find is not a function
+[2023-04-19 12:17:00:519] Uncaught TypeError: Cannot read property 'info' of undefined
+[2023-04-19 12:17:08:744] Uncaught TypeError: Cannot read property 'info' of undefined
+[2023-04-19 12:17:09:556] Uncaught TypeError: Cannot read property 'info' of undefined
+[2023-04-19 12:17:34:138] Uncaught TypeError: Cannot read property 'info' of undefined

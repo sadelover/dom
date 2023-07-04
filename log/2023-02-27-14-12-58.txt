@@ -1,0 +1,62 @@
+[2023-02-27 14:12:58:584] app on ready
+[2023-02-27 14:12:58:585] start to install extensions
+[2023-02-27 14:12:58:585] argv.length6
+[2023-02-27 14:12:58:585] x0
+[2023-02-27 14:12:58:585] y0
+[2023-02-27 14:12:58:585] appWindowWidth--960
+[2023-02-27 14:12:58:585] appWindowHeight--516
+[2023-02-27 14:12:58:586] countNaN
+[2023-02-27 14:12:58:586] countstring
+[2023-02-27 14:12:58:586] count-r
+[2023-02-27 14:12:58:586] No-r
+[2023-02-27 14:12:58:586] the install param {isDev}: true
+[2023-02-27 14:12:58:616] begin to download extensions!
+[2023-02-27 14:12:59:589] start to install extensions,total cost: 1003
+[2023-02-27 14:12:59:590] createLoginWindow finish
+[2023-02-27 14:12:59:590] createLoginWindow start act
+[2023-02-27 14:12:59:590] electronWindow.createWindow start
+[2023-02-27 14:12:59:623] electronWindow.createWindow finish
+[2023-02-27 14:12:59:623] addDebugContextMenu start
+[2023-02-27 14:12:59:623] addDebugContextMenu finish
+[2023-02-27 14:12:59:623] loginWin.showUrl to login.html start
+[2023-02-27 14:12:59:637] loginWin.showUrl to login.html finish
+[2023-02-27 14:17:34:949] loginWin.showUrl internal act...
+[2023-02-27 14:17:42:933] loginWin.hide start
+[2023-02-27 14:17:42:934] loginWin.hide finish
+[2023-02-27 14:17:42:934] createAppWindow start
+[2023-02-27 14:17:42:934] electronWindow.createWindow start
+[2023-02-27 14:17:42:941] electronWindow.createWindow finish
+[2023-02-27 14:17:42:941] appWin.maximize
+[2023-02-27 14:17:42:958] addDebugContextMenu to appWin
+[2023-02-27 14:17:42:958] appWin.showUrl to app.html start
+[2023-02-27 14:17:42:967] createAppWindow finish
+[2023-02-27 14:17:42:967] loginWin start
+[2023-02-27 14:17:42:967] destroyWindow
+[2023-02-27 14:17:42:967] win close start
+[2023-02-27 14:17:42:968] win close finish
+[2023-02-27 14:17:42:968] loginWin finish
+[2023-02-27 14:17:44:913] appWin.showUrl internal: Start rendering
+[2023-02-27 14:17:44:913] appWin.showUrl to app.html finish
+[2023-02-27 15:14:35:919] Uncaught TypeError: Cannot read property 'on' of null
+[2023-02-27 15:15:52:301] Uncaught TypeError: Cannot read property 'on' of null
+[2023-02-27 15:15:53:078] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 15:16:29:034] Uncaught TypeError: Cannot read property 'on' of null
+[2023-02-27 15:16:46:714] Uncaught TypeError: Cannot read property 'on' of null
+[2023-02-27 15:16:49:311] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 15:18:50:697] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 15:19:54:479] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 15:46:07:205] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 17:28:05:647] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 17:29:45:383] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 17:30:04:181] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 17:30:32:346] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 17:30:53:695] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 17:33:45:436] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 17:44:34:436] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 17:44:37:451] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 17:46:03:773] Uncaught TypeError: e.preventDefault is not a function
+[2023-02-27 17:46:04:993] Uncaught TypeError: e.preventDefault is not a function
+[2023-02-27 17:46:06:039] Uncaught TypeError: e.preventDefault is not a function
+[2023-02-27 17:46:07:091] Uncaught TypeError: e.preventDefault is not a function
+[2023-02-27 17:46:08:452] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-27 18:30:23:875] ipcMain.on commands.CLOSE_APP_WINDOW

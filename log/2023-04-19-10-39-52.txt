@@ -1,0 +1,44 @@
+[2023-04-19 10:39:52:114] app on ready
+[2023-04-19 10:39:52:114] start to install extensions
+[2023-04-19 10:39:52:115] argv.length6
+[2023-04-19 10:39:52:115] x0
+[2023-04-19 10:39:52:115] y0
+[2023-04-19 10:39:52:115] appWindowWidth--960
+[2023-04-19 10:39:52:115] appWindowHeight--516
+[2023-04-19 10:39:52:115] countNaN
+[2023-04-19 10:39:52:116] countstring
+[2023-04-19 10:39:52:116] count-r
+[2023-04-19 10:39:52:116] No-r
+[2023-04-19 10:39:52:116] the install param {isDev}: true
+[2023-04-19 10:39:52:145] begin to download extensions!
+[2023-04-19 10:39:52:866] start to install extensions,total cost: 750
+[2023-04-19 10:39:52:866] createLoginWindow finish
+[2023-04-19 10:39:52:866] createLoginWindow start act
+[2023-04-19 10:39:52:866] electronWindow.createWindow start
+[2023-04-19 10:39:52:887] electronWindow.createWindow finish
+[2023-04-19 10:39:52:888] addDebugContextMenu start
+[2023-04-19 10:39:52:888] addDebugContextMenu finish
+[2023-04-19 10:39:52:888] loginWin.showUrl to login.html start
+[2023-04-19 10:39:52:897] loginWin.showUrl to login.html finish
+[2023-04-19 10:44:33:434] loginWin.showUrl internal act...
+[2023-04-19 10:44:54:665] loginWin.hide start
+[2023-04-19 10:44:54:666] loginWin.hide finish
+[2023-04-19 10:44:54:666] createAppWindow start
+[2023-04-19 10:44:54:666] electronWindow.createWindow start
+[2023-04-19 10:44:54:672] electronWindow.createWindow finish
+[2023-04-19 10:44:54:673] appWin.maximize
+[2023-04-19 10:44:54:689] addDebugContextMenu to appWin
+[2023-04-19 10:44:54:690] appWin.showUrl to app.html start
+[2023-04-19 10:44:54:694] createAppWindow finish
+[2023-04-19 10:44:54:695] loginWin start
+[2023-04-19 10:44:54:695] destroyWindow
+[2023-04-19 10:44:54:695] win close start
+[2023-04-19 10:44:54:696] win close finish
+[2023-04-19 10:44:54:696] loginWin finish
+[2023-04-19 10:44:56:856] appWin.showUrl internal: Start rendering
+[2023-04-19 10:44:56:856] appWin.showUrl to app.html finish
+[2023-04-19 10:55:55:630] Uncaught TypeError: this.refreshWarningData is not a function
+[2023-04-19 11:03:11:400] Uncaught TypeError: Cannot read property 'PriChWPMaintainOnOff04' of null
+[2023-04-19 11:03:11:401] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 11:03:34:534] Uncaught TypeError: Cannot read property 'CWTempDiff' of null
+[2023-04-19 11:03:34:535] Uncaught TypeError: Cannot read property 'customControls' of null

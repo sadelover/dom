@@ -1,0 +1,85 @@
+[2023-04-19 13:59:57:928] app on ready
+[2023-04-19 13:59:57:928] start to install extensions
+[2023-04-19 13:59:57:929] argv.length6
+[2023-04-19 13:59:57:929] x0
+[2023-04-19 13:59:57:929] y0
+[2023-04-19 13:59:57:929] appWindowWidth--960
+[2023-04-19 13:59:57:929] appWindowHeight--516
+[2023-04-19 13:59:57:929] countNaN
+[2023-04-19 13:59:57:929] countstring
+[2023-04-19 13:59:57:930] count-r
+[2023-04-19 13:59:57:930] No-r
+[2023-04-19 13:59:57:930] the install param {isDev}: true
+[2023-04-19 13:59:57:960] begin to download extensions!
+[2023-04-19 13:59:58:651] start to install extensions,total cost: 721
+[2023-04-19 13:59:58:651] createLoginWindow finish
+[2023-04-19 13:59:58:651] createLoginWindow start act
+[2023-04-19 13:59:58:651] electronWindow.createWindow start
+[2023-04-19 13:59:58:672] electronWindow.createWindow finish
+[2023-04-19 13:59:58:673] addDebugContextMenu start
+[2023-04-19 13:59:58:673] addDebugContextMenu finish
+[2023-04-19 13:59:58:673] loginWin.showUrl to login.html start
+[2023-04-19 13:59:58:680] loginWin.showUrl to login.html finish
+[2023-04-19 14:04:40:165] loginWin.showUrl internal act...
+[2023-04-19 14:13:48:861] loginWin.hide start
+[2023-04-19 14:13:48:862] loginWin.hide finish
+[2023-04-19 14:13:48:862] createAppWindow start
+[2023-04-19 14:13:48:862] electronWindow.createWindow start
+[2023-04-19 14:13:48:869] electronWindow.createWindow finish
+[2023-04-19 14:13:48:869] appWin.maximize
+[2023-04-19 14:13:48:884] addDebugContextMenu to appWin
+[2023-04-19 14:13:48:885] appWin.showUrl to app.html start
+[2023-04-19 14:13:48:891] createAppWindow finish
+[2023-04-19 14:13:48:891] loginWin start
+[2023-04-19 14:13:48:891] destroyWindow
+[2023-04-19 14:13:48:892] win close start
+[2023-04-19 14:13:48:892] win close finish
+[2023-04-19 14:13:48:893] loginWin finish
+[2023-04-19 14:13:51:150] appWin.showUrl internal: Start rendering
+[2023-04-19 14:13:51:150] appWin.showUrl to app.html finish
+[2023-04-19 14:38:16:916] Uncaught TypeError: Cannot read property 'PriChWPEnabled04' of null
+[2023-04-19 14:38:16:917] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 14:38:41:513] Uncaught TypeError: Cannot read property 'PriChWPEnabled04' of null
+[2023-04-19 14:38:41:513] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 14:38:41:611] Uncaught TypeError: Cannot read property 'PriChWPGroupRealtimeEfficiency' of null
+[2023-04-19 14:38:41:612] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 15:00:59:388] Uncaught TypeError: Cannot read property 'PriChWPEnabled04' of null
+[2023-04-19 15:00:59:389] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 15:02:22:943] Uncaught ReferenceError: ignoreUser is not defined
+[2023-04-19 15:02:22:962] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:02:32:873] Uncaught ReferenceError: ignoreUser is not defined
+[2023-04-19 15:02:32:892] Uncaught ReferenceError: ignoreUser is not defined
+[2023-04-19 15:02:32:905] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:02:32:908] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:02:33:225] Uncaught ReferenceError: ignoreUser is not defined
+[2023-04-19 15:02:33:238] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:02:33:297] Uncaught ReferenceError: ignoreUser is not defined
+[2023-04-19 15:02:33:307] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:02:37:787] Uncaught ReferenceError: ignoreUser is not defined
+[2023-04-19 15:02:37:799] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:02:38:537] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:02:58:334] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:03:26:886] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:04:33:802] Uncaught ReferenceError: ignoreUser is not defined
+[2023-04-19 15:04:33:832] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:04:33:835] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:04:33:996] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:04:38:562] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:04:58:405] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:05:18:297] Uncaught TypeError: Cannot read property '_currentElement' of null
+[2023-04-19 15:20:04:715] Uncaught TypeError: Cannot read property '0' of undefined
+[2023-04-19 15:20:34:484] Uncaught TypeError: Cannot read property '0' of undefined
+[2023-04-19 15:21:04:550] Uncaught TypeError: Cannot read property '0' of undefined
+[2023-04-19 15:21:34:705] Uncaught TypeError: Cannot read property '0' of undefined
+[2023-04-19 15:22:34:991] Uncaught TypeError: Cannot read property '0' of undefined
+[2023-04-19 15:22:35:000] Uncaught TypeError: Cannot read property '0' of undefined
+[2023-04-19 15:23:04:935] Uncaught TypeError: Cannot read property '0' of undefined
+[2023-04-19 15:23:35:133] Uncaught TypeError: Cannot read property '0' of undefined
+[2023-04-19 15:24:05:185] Uncaught TypeError: Cannot read property '0' of undefined
+[2023-04-19 15:24:35:384] Uncaught TypeError: Cannot read property '0' of undefined
+[2023-04-19 15:33:28:514] Uncaught TypeError: Cannot read property 'PriChWPEnabled04' of null
+[2023-04-19 15:33:28:515] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 16:06:30:245] Uncaught TypeError: Cannot read property 'PriChWPEnabled04' of null
+[2023-04-19 16:06:30:245] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 17:15:20:874] Uncaught TypeError: Cannot read property 'PriChWPEnabled04' of null
+[2023-04-19 17:15:20:876] Uncaught TypeError: Cannot read property 'customControls' of null

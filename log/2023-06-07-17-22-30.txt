@@ -1,0 +1,58 @@
+[2023-06-07 17:22:30:805] app on ready
+[2023-06-07 17:22:30:806] start to install extensions
+[2023-06-07 17:22:30:806] argv.length6
+[2023-06-07 17:22:30:806] x0
+[2023-06-07 17:22:30:806] y0
+[2023-06-07 17:22:30:806] appWindowWidth--960
+[2023-06-07 17:22:30:807] appWindowHeight--516
+[2023-06-07 17:22:30:807] countNaN
+[2023-06-07 17:22:30:807] countstring
+[2023-06-07 17:22:30:807] count-r
+[2023-06-07 17:22:30:807] No-r
+[2023-06-07 17:22:30:807] the install param {isDev}: true
+[2023-06-07 17:22:30:837] begin to download extensions!
+[2023-06-07 17:22:31:998] start to install extensions,total cost: 1191
+[2023-06-07 17:22:31:998] createLoginWindow finish
+[2023-06-07 17:22:31:998] createLoginWindow start act
+[2023-06-07 17:22:31:998] electronWindow.createWindow start
+[2023-06-07 17:22:32:028] electronWindow.createWindow finish
+[2023-06-07 17:22:32:029] addDebugContextMenu start
+[2023-06-07 17:22:32:029] addDebugContextMenu finish
+[2023-06-07 17:22:32:029] loginWin.showUrl to login.html start
+[2023-06-07 17:22:32:041] loginWin.showUrl to login.html finish
+[2023-06-07 17:26:57:999] loginWin.showUrl internal act...
+[2023-06-07 17:27:26:201] loginWin.hide start
+[2023-06-07 17:27:26:202] loginWin.hide finish
+[2023-06-07 17:27:26:202] createAppWindow start
+[2023-06-07 17:27:26:202] electronWindow.createWindow start
+[2023-06-07 17:27:26:209] electronWindow.createWindow finish
+[2023-06-07 17:27:26:209] appWin.maximize
+[2023-06-07 17:27:26:239] addDebugContextMenu to appWin
+[2023-06-07 17:27:26:239] appWin.showUrl to app.html start
+[2023-06-07 17:27:26:245] createAppWindow finish
+[2023-06-07 17:27:26:245] loginWin start
+[2023-06-07 17:27:26:245] destroyWindow
+[2023-06-07 17:27:26:246] win close start
+[2023-06-07 17:27:26:246] win close finish
+[2023-06-07 17:27:26:247] loginWin finish
+[2023-06-07 17:28:09:748] appWin.showUrl internal: Start rendering
+[2023-06-07 17:28:09:748] appWin.showUrl to app.html finish
+[2023-06-07 17:29:07:782] Uncaught TypeError: Cannot read property 'ZJJXDMD_ThisDayEfficiencyTotalCOP' of null
+[2023-06-07 17:29:07:782] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-06-07 17:43:17:420] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-07 17:43:29:746] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-07 17:44:02:598] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-07 17:44:29:914] Uncaught TypeError: Cannot read property 'ZJJXDMD_ThisDayEfficiencyTotal' of null
+[2023-06-07 17:44:29:915] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-06-07 17:45:14:259] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-06-07 17:46:24:885] Uncaught TypeError: Cannot read property 'ZJJXDMD_ThisDayEfficiencyTotal' of null
+[2023-06-07 17:46:24:885] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-06-07 17:47:13:018] Uncaught TypeError: Cannot read property 'ZJJXDMD_PriChWPEnabled03' of null
+[2023-06-07 17:47:13:018] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-06-07 17:48:00:650] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-06-07 17:51:07:159] Uncaught TypeError: Cannot read property 'drawMeterPan' of undefined
+[2023-06-07 17:51:07:159] Uncaught TypeError: Cannot read property 'drawMeterPointer' of undefined
+[2023-06-07 18:01:57:169] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-07 18:09:20:863] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-07 18:22:38:875] Uncaught TypeError: warningData.reverse is not a function
+[2023-06-07 18:23:08:955] Uncaught TypeError: warningData.reverse is not a function

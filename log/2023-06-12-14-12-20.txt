@@ -1,0 +1,60 @@
+[2023-06-12 14:12:20:891] app on ready
+[2023-06-12 14:12:20:892] start to install extensions
+[2023-06-12 14:12:20:892] argv.length6
+[2023-06-12 14:12:20:892] x0
+[2023-06-12 14:12:20:893] y0
+[2023-06-12 14:12:20:893] appWindowWidth--960
+[2023-06-12 14:12:20:893] appWindowHeight--516
+[2023-06-12 14:12:20:893] countNaN
+[2023-06-12 14:12:20:893] countstring
+[2023-06-12 14:12:20:893] count-r
+[2023-06-12 14:12:20:893] No-r
+[2023-06-12 14:12:20:894] the install param {isDev}: true
+[2023-06-12 14:12:20:922] begin to download extensions!
+[2023-06-12 14:12:22:474] start to install extensions,total cost: 1580
+[2023-06-12 14:12:22:474] createLoginWindow finish
+[2023-06-12 14:12:22:474] createLoginWindow start act
+[2023-06-12 14:12:22:474] electronWindow.createWindow start
+[2023-06-12 14:12:22:508] electronWindow.createWindow finish
+[2023-06-12 14:12:22:508] addDebugContextMenu start
+[2023-06-12 14:12:22:509] addDebugContextMenu finish
+[2023-06-12 14:12:22:509] loginWin.showUrl to login.html start
+[2023-06-12 14:12:22:523] loginWin.showUrl to login.html finish
+[2023-06-12 14:16:59:405] loginWin.showUrl internal act...
+[2023-06-12 14:17:18:475] loginWin.hide start
+[2023-06-12 14:17:18:475] loginWin.hide finish
+[2023-06-12 14:17:18:475] createAppWindow start
+[2023-06-12 14:17:18:476] electronWindow.createWindow start
+[2023-06-12 14:17:18:485] electronWindow.createWindow finish
+[2023-06-12 14:17:18:485] appWin.maximize
+[2023-06-12 14:17:18:504] addDebugContextMenu to appWin
+[2023-06-12 14:17:18:504] appWin.showUrl to app.html start
+[2023-06-12 14:17:18:509] createAppWindow finish
+[2023-06-12 14:17:18:510] loginWin start
+[2023-06-12 14:17:18:510] destroyWindow
+[2023-06-12 14:17:18:510] win close start
+[2023-06-12 14:17:18:511] win close finish
+[2023-06-12 14:17:18:512] loginWin finish
+[2023-06-12 14:17:20:475] appWin.showUrl internal: Start rendering
+[2023-06-12 14:17:20:476] appWin.showUrl to app.html finish
+[2023-06-12 14:17:38:049] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:23:39:304] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:36:18:929] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:36:32:886] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:36:41:995] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:36:47:058] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:37:04:788] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:37:15:504] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:38:56:158] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:39:40:329] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:39:45:608] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:39:59:566] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:40:09:850] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:40:14:749] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:40:19:048] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:40:57:591] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:41:07:287] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:41:11:860] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:41:21:566] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:41:37:062] Uncaught SyntaxError: Unexpected identifier
+[2023-06-12 14:43:04:779] ipcMain.on commands.MINIMIZE_APP_WINDOW

@@ -1,0 +1,55 @@
+[2023-04-17 11:37:07:918] app on ready
+[2023-04-17 11:37:07:918] start to install extensions
+[2023-04-17 11:37:07:919] argv.length6
+[2023-04-17 11:37:07:919] x0
+[2023-04-17 11:37:07:919] y0
+[2023-04-17 11:37:07:919] appWindowWidth--960
+[2023-04-17 11:37:07:919] appWindowHeight--516
+[2023-04-17 11:37:07:920] countNaN
+[2023-04-17 11:37:07:920] countstring
+[2023-04-17 11:37:07:920] count-r
+[2023-04-17 11:37:07:920] No-r
+[2023-04-17 11:37:07:920] the install param {isDev}: true
+[2023-04-17 11:37:07:948] begin to download extensions!
+[2023-04-17 11:37:08:546] start to install extensions,total cost: 626
+[2023-04-17 11:37:08:547] createLoginWindow finish
+[2023-04-17 11:37:08:547] createLoginWindow start act
+[2023-04-17 11:37:08:547] electronWindow.createWindow start
+[2023-04-17 11:37:08:568] electronWindow.createWindow finish
+[2023-04-17 11:37:08:569] addDebugContextMenu start
+[2023-04-17 11:37:08:569] addDebugContextMenu finish
+[2023-04-17 11:37:08:569] loginWin.showUrl to login.html start
+[2023-04-17 11:37:08:577] loginWin.showUrl to login.html finish
+[2023-04-17 11:41:30:172] loginWin.showUrl internal act...
+[2023-04-17 11:42:17:426] loginWin.hide start
+[2023-04-17 11:42:17:426] loginWin.hide finish
+[2023-04-17 11:42:17:426] createAppWindow start
+[2023-04-17 11:42:17:426] electronWindow.createWindow start
+[2023-04-17 11:42:17:432] electronWindow.createWindow finish
+[2023-04-17 11:42:17:433] appWin.maximize
+[2023-04-17 11:42:17:449] addDebugContextMenu to appWin
+[2023-04-17 11:42:17:450] appWin.showUrl to app.html start
+[2023-04-17 11:42:17:455] createAppWindow finish
+[2023-04-17 11:42:17:455] loginWin start
+[2023-04-17 11:42:17:456] destroyWindow
+[2023-04-17 11:42:17:456] win close start
+[2023-04-17 11:42:17:457] win close finish
+[2023-04-17 11:42:17:457] loginWin finish
+[2023-04-17 11:42:19:653] appWin.showUrl internal: Start rendering
+[2023-04-17 11:42:19:654] appWin.showUrl to app.html finish
+[2023-04-17 14:41:55:941] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:41:56:465] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:41:59:722] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:41:59:722] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:41:59:723] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:42:00:086] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:42:04:721] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:42:05:203] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:42:05:204] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:42:05:204] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:42:06:070] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:42:10:783] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:42:10:785] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:42:10:786] Uncaught ReferenceError: Badge is not defined
+[2023-04-17 14:46:44:162] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-17 18:00:05:991] ipcMain.on commands.CLOSE_APP_WINDOW

@@ -1,0 +1,68 @@
+[2023-03-01 13:49:52:139] app on ready
+[2023-03-01 13:49:52:139] start to install extensions
+[2023-03-01 13:49:52:140] argv.length6
+[2023-03-01 13:49:52:140] x0
+[2023-03-01 13:49:52:140] y0
+[2023-03-01 13:49:52:140] appWindowWidth--960
+[2023-03-01 13:49:52:140] appWindowHeight--516
+[2023-03-01 13:49:52:140] countNaN
+[2023-03-01 13:49:52:141] countstring
+[2023-03-01 13:49:52:141] count-r
+[2023-03-01 13:49:52:141] No-r
+[2023-03-01 13:49:52:141] the install param {isDev}: true
+[2023-03-01 13:49:52:168] begin to download extensions!
+[2023-03-01 13:49:53:089] start to install extensions,total cost: 948
+[2023-03-01 13:49:53:089] createLoginWindow finish
+[2023-03-01 13:49:53:090] createLoginWindow start act
+[2023-03-01 13:49:53:090] electronWindow.createWindow start
+[2023-03-01 13:49:53:108] electronWindow.createWindow finish
+[2023-03-01 13:49:53:109] addDebugContextMenu start
+[2023-03-01 13:49:53:109] addDebugContextMenu finish
+[2023-03-01 13:49:53:109] loginWin.showUrl to login.html start
+[2023-03-01 13:49:53:115] loginWin.showUrl to login.html finish
+[2023-03-01 13:54:08:692] loginWin.showUrl internal act...
+[2023-03-01 13:54:27:112] loginWin.hide start
+[2023-03-01 13:54:27:112] loginWin.hide finish
+[2023-03-01 13:54:27:112] createAppWindow start
+[2023-03-01 13:54:27:113] electronWindow.createWindow start
+[2023-03-01 13:54:27:120] electronWindow.createWindow finish
+[2023-03-01 13:54:27:120] appWin.maximize
+[2023-03-01 13:54:27:138] addDebugContextMenu to appWin
+[2023-03-01 13:54:27:138] appWin.showUrl to app.html start
+[2023-03-01 13:54:27:143] createAppWindow finish
+[2023-03-01 13:54:27:143] loginWin start
+[2023-03-01 13:54:27:144] destroyWindow
+[2023-03-01 13:54:27:144] win close start
+[2023-03-01 13:54:27:145] win close finish
+[2023-03-01 13:54:27:145] loginWin finish
+[2023-03-01 13:54:29:275] appWin.showUrl internal: Start rendering
+[2023-03-01 13:54:29:276] appWin.showUrl to app.html finish
+[2023-03-01 16:00:33:825] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 16:02:34:602] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 16:03:16:759] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 16:03:52:911] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 16:12:14:846] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 16:17:57:565] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 16:18:08:653] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 16:45:28:704] Uncaught ReferenceError: item is not defined
+[2023-03-01 16:47:28:577] Uncaught ReferenceError: item is not defined
+[2023-03-01 16:55:15:722] Uncaught TypeError: Cannot read property 'setAttribute' of undefined
+[2023-03-01 16:56:20:347] Uncaught TypeError: The "listener" argument must be of type function. Received undefined
+[2023-03-01 16:57:29:078] Uncaught TypeError: Cannot read property 'setAttribute' of undefined
+[2023-03-01 16:58:07:357] Uncaught TypeError: The "listener" argument must be of type function. Received undefined
+[2023-03-01 16:58:33:183] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 16:59:31:385] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 17:01:51:107] Uncaught TypeError: The "listener" argument must be of type function. Received undefined
+[2023-03-01 17:01:55:206] Uncaught TypeError: The "listener" argument must be of type function. Received undefined
+[2023-03-01 17:02:20:840] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 17:03:30:333] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 17:04:07:385] Uncaught TypeError: The "listener" argument must be of type function. Received undefined
+[2023-03-01 17:04:20:146] Uncaught TypeError: Cannot read property 'setAttribute' of undefined
+[2023-03-01 17:04:28:481] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-01 17:05:17:322] Uncaught TypeError: The "listener" argument must be of type function. Received undefined
+[2023-03-01 17:05:29:428] Uncaught TypeError: Cannot read property 'setAttribute' of undefined
+[2023-03-01 17:06:18:991] Uncaught TypeError: The "listener" argument must be of type function. Received undefined
+[2023-03-01 17:06:52:062] Uncaught TypeError: Cannot read property 'setAttribute' of undefined
+[2023-03-01 17:07:09:524] Uncaught TypeError: The "listener" argument must be of type function. Received undefined
+[2023-03-01 17:07:21:375] Uncaught TypeError: Cannot read property 'setAttribute' of undefined
+[2023-03-01 17:07:53:940] ipcMain.on commands.MINIMIZE_APP_WINDOW

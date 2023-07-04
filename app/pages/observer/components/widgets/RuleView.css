@@ -1,0 +1,66 @@
+.table-container{
+    position: absolute;
+    /* width: 515px;
+    height: 287px;
+    top: 609px;
+    left:377px; */
+    color: #000000;
+    z-index: 2;
+}
+
+.editable-row .ant-form-explain {
+    position: absolute;
+    font-size: 12px;
+    margin-top: -4px;
+  }
+
+  .outputColor {
+      background-color: rgb(41, 150, 223);
+  }
+
+  .editable-row-operations a {
+    margin-right: 8px;
+  }
+
+  .editable-cell {
+    position: relative;
+  }
+  
+  .editable-cell-input-wrapper,
+  .editable-cell-text-wrapper {
+    padding-right: 24px;
+  }
+  
+  .editable-cell-text-wrapper {
+    padding: 5px 24px 5px 5px;
+  }
+  
+  .editable-cell-icon,
+  .editable-cell-icon-check {
+    position: absolute;
+    right: 0;
+    width: 20px;
+    cursor: pointer;
+  }
+  
+  .editable-cell-icon {
+    line-height: 18px;
+    display: none;
+  }
+  
+  .editable-cell-icon-check {
+    line-height: 28px;
+  }
+  
+  .editable-cell:hover .editable-cell-icon {
+    display: inline-block;
+  }
+  
+  .editable-cell-icon:hover,
+  .editable-cell-icon-check:hover {
+    color: #108ee9;
+  }
+  
+  .editable-add-btn {
+    margin-bottom: 8px;
+  }

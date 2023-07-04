@@ -1,0 +1,68 @@
+[2023-04-11 14:04:19:056] app on ready
+[2023-04-11 14:04:19:057] start to install extensions
+[2023-04-11 14:04:19:057] argv.length6
+[2023-04-11 14:04:19:057] x0
+[2023-04-11 14:04:19:057] y0
+[2023-04-11 14:04:19:057] appWindowWidth--960
+[2023-04-11 14:04:19:057] appWindowHeight--516
+[2023-04-11 14:04:19:057] countNaN
+[2023-04-11 14:04:19:058] countstring
+[2023-04-11 14:04:19:058] count-r
+[2023-04-11 14:04:19:058] No-r
+[2023-04-11 14:04:19:058] the install param {isDev}: true
+[2023-04-11 14:04:19:085] begin to download extensions!
+[2023-04-11 14:04:19:971] start to install extensions,total cost: 913
+[2023-04-11 14:04:19:971] createLoginWindow finish
+[2023-04-11 14:04:19:971] createLoginWindow start act
+[2023-04-11 14:04:19:971] electronWindow.createWindow start
+[2023-04-11 14:04:20:009] electronWindow.createWindow finish
+[2023-04-11 14:04:20:010] addDebugContextMenu start
+[2023-04-11 14:04:20:010] addDebugContextMenu finish
+[2023-04-11 14:04:20:010] loginWin.showUrl to login.html start
+[2023-04-11 14:04:20:028] loginWin.showUrl to login.html finish
+[2023-04-11 14:08:51:871] loginWin.showUrl internal act...
+[2023-04-11 14:25:47:610] loginWin.hide start
+[2023-04-11 14:25:47:611] loginWin.hide finish
+[2023-04-11 14:25:47:611] createAppWindow start
+[2023-04-11 14:25:47:611] electronWindow.createWindow start
+[2023-04-11 14:25:47:618] electronWindow.createWindow finish
+[2023-04-11 14:25:47:618] appWin.maximize
+[2023-04-11 14:25:47:623] addDebugContextMenu to appWin
+[2023-04-11 14:25:47:623] appWin.showUrl to app.html start
+[2023-04-11 14:25:47:628] createAppWindow finish
+[2023-04-11 14:25:47:629] loginWin start
+[2023-04-11 14:25:47:629] destroyWindow
+[2023-04-11 14:25:47:629] win close start
+[2023-04-11 14:25:47:630] win close finish
+[2023-04-11 14:25:47:630] loginWin finish
+[2023-04-11 14:25:49:889] appWin.showUrl internal: Start rendering
+[2023-04-11 14:25:49:889] appWin.showUrl to app.html finish
+[2023-04-11 14:47:00:400] 记录失败
+[2023-04-11 14:47:00:715] 记录失败
+[2023-04-11 14:47:01:031] 记录失败
+[2023-04-11 14:47:01:347] 记录失败
+[2023-04-11 14:47:01:664] 记录失败
+[2023-04-11 14:50:24:147] 记录失败
+[2023-04-11 14:50:24:464] 记录失败
+[2023-04-11 14:50:24:782] 记录失败
+[2023-04-11 14:50:25:097] 记录失败
+[2023-04-11 14:50:25:414] 记录失败
+[2023-04-11 14:50:27:097] 记录失败
+[2023-04-11 14:50:27:417] 记录失败
+[2023-04-11 14:50:27:731] 记录失败
+[2023-04-11 14:50:28:048] 记录失败
+[2023-04-11 14:50:28:437] 记录失败
+[2023-04-11 14:50:35:797] 记录失败
+[2023-04-11 14:50:36:117] 记录失败
+[2023-04-11 14:50:36:432] 记录失败
+[2023-04-11 14:50:36:747] 记录失败
+[2023-04-11 14:50:37:051] 记录失败
+[2023-04-11 14:50:52:230] 记录失败
+[2023-04-11 14:50:52:549] 记录失败
+[2023-04-11 14:50:52:865] 记录失败
+[2023-04-11 14:50:53:181] 记录失败
+[2023-04-11 14:50:53:484] 记录失败
+[2023-04-11 15:15:12:000] Uncaught TypeError: Cannot set property 'innerHTML' of null
+[2023-04-11 15:15:12:024] Uncaught TypeError: Cannot read property 'trim' of undefined
+[2023-04-11 15:16:12:577] Uncaught TypeError: Cannot set property 'innerHTML' of null
+[2023-04-11 15:16:12:591] Uncaught TypeError: Cannot read property 'trim' of undefined

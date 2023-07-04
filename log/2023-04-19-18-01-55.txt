@@ -1,0 +1,51 @@
+[2023-04-19 18:01:55:764] app on ready
+[2023-04-19 18:01:55:764] start to install extensions
+[2023-04-19 18:01:55:764] argv.length6
+[2023-04-19 18:01:55:764] x0
+[2023-04-19 18:01:55:765] y0
+[2023-04-19 18:01:55:765] appWindowWidth--960
+[2023-04-19 18:01:55:765] appWindowHeight--516
+[2023-04-19 18:01:55:765] countNaN
+[2023-04-19 18:01:55:765] countstring
+[2023-04-19 18:01:55:765] count-r
+[2023-04-19 18:01:55:766] No-r
+[2023-04-19 18:01:55:766] the install param {isDev}: true
+[2023-04-19 18:01:55:794] begin to download extensions!
+[2023-04-19 18:01:56:883] start to install extensions,total cost: 1117
+[2023-04-19 18:01:56:883] createLoginWindow finish
+[2023-04-19 18:01:56:883] createLoginWindow start act
+[2023-04-19 18:01:56:883] electronWindow.createWindow start
+[2023-04-19 18:01:56:904] electronWindow.createWindow finish
+[2023-04-19 18:01:56:904] addDebugContextMenu start
+[2023-04-19 18:01:56:905] addDebugContextMenu finish
+[2023-04-19 18:01:56:905] loginWin.showUrl to login.html start
+[2023-04-19 18:01:56:913] loginWin.showUrl to login.html finish
+[2023-04-19 18:07:05:836] loginWin.showUrl internal act...
+[2023-04-19 18:07:41:504] loginWin.hide start
+[2023-04-19 18:07:41:504] loginWin.hide finish
+[2023-04-19 18:07:41:504] createAppWindow start
+[2023-04-19 18:07:41:504] electronWindow.createWindow start
+[2023-04-19 18:07:41:511] electronWindow.createWindow finish
+[2023-04-19 18:07:41:512] appWin.maximize
+[2023-04-19 18:07:41:530] addDebugContextMenu to appWin
+[2023-04-19 18:07:41:531] appWin.showUrl to app.html start
+[2023-04-19 18:07:41:536] createAppWindow finish
+[2023-04-19 18:07:41:537] loginWin start
+[2023-04-19 18:07:41:537] destroyWindow
+[2023-04-19 18:07:41:537] win close start
+[2023-04-19 18:07:41:538] win close finish
+[2023-04-19 18:07:41:539] loginWin finish
+[2023-04-19 18:07:41:555] loginWin.hide start
+[2023-04-19 18:07:41:555] loginWin.hide finish
+[2023-04-19 18:07:41:556] createAppWindow start
+[2023-04-19 18:07:41:556] createAppWindow finish
+[2023-04-19 18:07:41:556] loginWin start
+[2023-04-19 18:07:41:556] destroyWindow
+[2023-04-19 18:07:41:556] win close start
+[2023-04-19 18:07:41:557] win close finish
+[2023-04-19 18:07:41:557] loginWin finish
+[2023-04-19 18:07:43:800] appWin.showUrl internal: Start rendering
+[2023-04-19 18:07:43:800] appWin.showUrl to app.html finish
+[2023-04-19 18:10:25:796] Uncaught TypeError: Cannot read property 'PriChWPEnabled04' of null
+[2023-04-19 18:10:25:797] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-19 18:13:04:130] ipcMain.on commands.CLOSE_APP_WINDOW

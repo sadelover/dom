@@ -1,0 +1,44 @@
+[2023-05-26 10:34:24:828] app on ready
+[2023-05-26 10:34:24:829] start to install extensions
+[2023-05-26 10:34:24:829] argv.length6
+[2023-05-26 10:34:24:829] x0
+[2023-05-26 10:34:24:829] y0
+[2023-05-26 10:34:24:830] appWindowWidth--960
+[2023-05-26 10:34:24:830] appWindowHeight--516
+[2023-05-26 10:34:24:830] countNaN
+[2023-05-26 10:34:24:830] countstring
+[2023-05-26 10:34:24:830] count-r
+[2023-05-26 10:34:24:830] No-r
+[2023-05-26 10:34:24:831] the install param {isDev}: true
+[2023-05-26 10:34:24:859] begin to download extensions!
+[2023-05-26 10:34:36:639] start to install extensions,total cost: 11808
+[2023-05-26 10:34:36:639] createLoginWindow finish
+[2023-05-26 10:34:36:639] createLoginWindow start act
+[2023-05-26 10:34:36:640] electronWindow.createWindow start
+[2023-05-26 10:34:36:658] electronWindow.createWindow finish
+[2023-05-26 10:34:36:659] addDebugContextMenu start
+[2023-05-26 10:34:36:659] addDebugContextMenu finish
+[2023-05-26 10:34:36:659] loginWin.showUrl to login.html start
+[2023-05-26 10:34:36:666] loginWin.showUrl to login.html finish
+[2023-05-26 10:38:47:379] loginWin.showUrl internal act...
+[2023-05-26 10:53:24:016] loginWin.hide start
+[2023-05-26 10:53:24:017] loginWin.hide finish
+[2023-05-26 10:53:24:017] createAppWindow start
+[2023-05-26 10:53:24:017] electronWindow.createWindow start
+[2023-05-26 10:53:24:023] electronWindow.createWindow finish
+[2023-05-26 10:53:24:023] appWin.maximize
+[2023-05-26 10:53:24:027] addDebugContextMenu to appWin
+[2023-05-26 10:53:24:027] appWin.showUrl to app.html start
+[2023-05-26 10:53:24:032] createAppWindow finish
+[2023-05-26 10:53:24:033] loginWin start
+[2023-05-26 10:53:24:033] destroyWindow
+[2023-05-26 10:53:24:034] win close start
+[2023-05-26 10:53:24:034] win close finish
+[2023-05-26 10:53:24:034] loginWin finish
+[2023-05-26 10:53:26:210] appWin.showUrl internal: Start rendering
+[2023-05-26 10:53:26:211] appWin.showUrl to app.html finish
+[2023-05-26 10:58:13:358] Uncaught TypeError: Cannot read property 'ChOnOff01' of null
+[2023-05-26 10:58:13:358] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-05-26 11:01:22:735] Uncaught TypeError: Cannot read property 'ChOnOff01' of null
+[2023-05-26 11:01:22:736] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-05-26 11:01:35:864] ipcMain.on commands.CLOSE_APP_WINDOW

@@ -1,0 +1,59 @@
+[2023-02-26 13:37:50:026] app on ready
+[2023-02-26 13:37:50:026] start to install extensions
+[2023-02-26 13:37:50:026] argv.length6
+[2023-02-26 13:37:50:027] x0
+[2023-02-26 13:37:50:027] y0
+[2023-02-26 13:37:50:027] appWindowWidth--853
+[2023-02-26 13:37:50:027] appWindowHeight--509
+[2023-02-26 13:37:50:027] countNaN
+[2023-02-26 13:37:50:027] countstring
+[2023-02-26 13:37:50:027] count-r
+[2023-02-26 13:37:50:028] No-r
+[2023-02-26 13:37:50:028] the install param {isDev}: true
+[2023-02-26 13:37:50:055] begin to download extensions!
+[2023-02-26 13:38:58:188] start to install extensions,total cost: 68160
+[2023-02-26 13:38:58:188] createLoginWindow finish
+[2023-02-26 13:38:58:189] createLoginWindow start act
+[2023-02-26 13:38:58:189] electronWindow.createWindow start
+[2023-02-26 13:38:58:213] electronWindow.createWindow finish
+[2023-02-26 13:38:58:213] addDebugContextMenu start
+[2023-02-26 13:38:58:213] addDebugContextMenu finish
+[2023-02-26 13:38:58:213] loginWin.showUrl to login.html start
+[2023-02-26 13:38:58:221] loginWin.showUrl to login.html finish
+[2023-02-26 13:42:34:156] loginWin.showUrl internal act...
+[2023-02-26 13:46:55:904] loginWin.hide start
+[2023-02-26 13:46:55:904] loginWin.hide finish
+[2023-02-26 13:46:55:905] createAppWindow start
+[2023-02-26 13:46:55:905] electronWindow.createWindow start
+[2023-02-26 13:46:55:911] electronWindow.createWindow finish
+[2023-02-26 13:46:55:912] appWin.maximize
+[2023-02-26 13:46:55:924] addDebugContextMenu to appWin
+[2023-02-26 13:46:55:925] appWin.showUrl to app.html start
+[2023-02-26 13:46:55:929] createAppWindow finish
+[2023-02-26 13:46:55:929] loginWin start
+[2023-02-26 13:46:55:930] destroyWindow
+[2023-02-26 13:46:55:930] win close start
+[2023-02-26 13:46:55:931] win close finish
+[2023-02-26 13:46:55:931] loginWin finish
+[2023-02-26 13:46:57:852] appWin.showUrl internal: Start rendering
+[2023-02-26 13:46:57:853] appWin.showUrl to app.html finish
+[2023-02-26 13:47:08:506] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:50:39:311] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:51:42:147] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:52:25:198] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:57:58:439] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 13:59:42:195] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 14:01:52:326] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 14:46:07:811] Uncaught ReferenceError: $ is not defined
+[2023-02-26 14:46:09:030] Uncaught ReferenceError: $ is not defined
+[2023-02-26 14:46:10:812] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 14:49:11:573] Uncaught ReferenceError: $ is not defined
+[2023-02-26 14:49:12:691] Uncaught ReferenceError: $ is not defined
+[2023-02-26 14:49:13:127] Uncaught ReferenceError: $ is not defined
+[2023-02-26 14:49:13:287] Uncaught ReferenceError: $ is not defined
+[2023-02-26 14:49:13:457] Uncaught ReferenceError: $ is not defined
+[2023-02-26 14:49:13:720] Uncaught ReferenceError: $ is not defined
+[2023-02-26 14:50:11:513] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 14:51:20:911] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 14:51:30:558] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-26 14:54:05:680] appWin.webContents.on crashed

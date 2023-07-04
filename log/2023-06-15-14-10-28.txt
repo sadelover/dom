@@ -1,0 +1,50 @@
+[2023-06-15 14:10:28:022] app on ready
+[2023-06-15 14:10:28:022] start to install extensions
+[2023-06-15 14:10:28:023] argv.length6
+[2023-06-15 14:10:28:023] x0
+[2023-06-15 14:10:28:023] y0
+[2023-06-15 14:10:28:023] appWindowWidth--960
+[2023-06-15 14:10:28:023] appWindowHeight--516
+[2023-06-15 14:10:28:024] countNaN
+[2023-06-15 14:10:28:024] countstring
+[2023-06-15 14:10:28:024] count-r
+[2023-06-15 14:10:28:024] No-r
+[2023-06-15 14:10:28:024] the install param {isDev}: true
+[2023-06-15 14:10:28:049] begin to download extensions!
+[2023-06-15 14:10:29:007] start to install extensions,total cost: 983
+[2023-06-15 14:10:29:008] createLoginWindow finish
+[2023-06-15 14:10:29:008] createLoginWindow start act
+[2023-06-15 14:10:29:008] electronWindow.createWindow start
+[2023-06-15 14:10:29:030] electronWindow.createWindow finish
+[2023-06-15 14:10:29:031] addDebugContextMenu start
+[2023-06-15 14:10:29:031] addDebugContextMenu finish
+[2023-06-15 14:10:29:031] loginWin.showUrl to login.html start
+[2023-06-15 14:10:29:040] loginWin.showUrl to login.html finish
+[2023-06-15 14:15:03:765] loginWin.showUrl internal act...
+[2023-06-15 14:17:05:611] loginWin.hide start
+[2023-06-15 14:17:05:612] loginWin.hide finish
+[2023-06-15 14:17:05:612] createAppWindow start
+[2023-06-15 14:17:05:612] electronWindow.createWindow start
+[2023-06-15 14:17:05:622] electronWindow.createWindow finish
+[2023-06-15 14:17:05:622] appWin.maximize
+[2023-06-15 14:17:05:644] addDebugContextMenu to appWin
+[2023-06-15 14:17:05:644] appWin.showUrl to app.html start
+[2023-06-15 14:17:05:650] createAppWindow finish
+[2023-06-15 14:17:05:650] loginWin start
+[2023-06-15 14:17:05:651] destroyWindow
+[2023-06-15 14:17:05:651] win close start
+[2023-06-15 14:17:05:653] win close finish
+[2023-06-15 14:17:05:654] loginWin finish
+[2023-06-15 14:17:07:881] appWin.showUrl internal: Start rendering
+[2023-06-15 14:17:07:882] appWin.showUrl to app.html finish
+[2023-06-15 14:27:03:868] Uncaught TypeError: Cannot read property 'ChErr01' of null
+[2023-06-15 14:27:03:868] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-06-15 14:44:53:200] Uncaught TypeError: Cannot read property 'ChErr01' of null
+[2023-06-15 14:44:53:201] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-06-15 14:46:14:927] Uncaught ReferenceError: e is not defined
+[2023-06-15 14:46:16:198] Uncaught ReferenceError: e is not defined
+[2023-06-15 14:46:16:734] Uncaught ReferenceError: e is not defined
+[2023-06-15 14:46:18:220] Uncaught ReferenceError: e is not defined
+[2023-06-15 14:46:18:645] Uncaught ReferenceError: e is not defined
+[2023-06-15 14:47:33:062] Uncaught ReferenceError: e is not defined
+[2023-06-15 14:54:23:432] appWin.webContents.on crashed

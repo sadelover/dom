@@ -1,0 +1,41 @@
+[2023-04-06 14:10:12:443] app on ready
+[2023-04-06 14:10:12:443] start to install extensions
+[2023-04-06 14:10:12:444] argv.length6
+[2023-04-06 14:10:12:444] x0
+[2023-04-06 14:10:12:444] y0
+[2023-04-06 14:10:12:444] appWindowWidth--960
+[2023-04-06 14:10:12:444] appWindowHeight--516
+[2023-04-06 14:10:12:444] countNaN
+[2023-04-06 14:10:12:445] countstring
+[2023-04-06 14:10:12:445] count-r
+[2023-04-06 14:10:12:445] No-r
+[2023-04-06 14:10:12:445] the install param {isDev}: true
+[2023-04-06 14:10:12:474] begin to download extensions!
+[2023-04-06 14:10:13:489] start to install extensions,total cost: 1044
+[2023-04-06 14:10:13:490] createLoginWindow finish
+[2023-04-06 14:10:13:490] createLoginWindow start act
+[2023-04-06 14:10:13:490] electronWindow.createWindow start
+[2023-04-06 14:10:13:513] electronWindow.createWindow finish
+[2023-04-06 14:10:13:514] addDebugContextMenu start
+[2023-04-06 14:10:13:514] addDebugContextMenu finish
+[2023-04-06 14:10:13:514] loginWin.showUrl to login.html start
+[2023-04-06 14:10:13:521] loginWin.showUrl to login.html finish
+[2023-04-06 14:14:43:384] loginWin.showUrl internal act...
+[2023-04-06 14:14:49:012] loginWin.hide start
+[2023-04-06 14:14:49:012] loginWin.hide finish
+[2023-04-06 14:14:49:012] createAppWindow start
+[2023-04-06 14:14:49:013] electronWindow.createWindow start
+[2023-04-06 14:14:49:025] electronWindow.createWindow finish
+[2023-04-06 14:14:49:025] appWin.maximize
+[2023-04-06 14:14:49:044] addDebugContextMenu to appWin
+[2023-04-06 14:14:49:044] appWin.showUrl to app.html start
+[2023-04-06 14:14:49:054] createAppWindow finish
+[2023-04-06 14:14:49:054] loginWin start
+[2023-04-06 14:14:49:054] destroyWindow
+[2023-04-06 14:14:49:055] win close start
+[2023-04-06 14:14:49:055] win close finish
+[2023-04-06 14:14:49:056] loginWin finish
+[2023-04-06 14:14:51:036] appWin.showUrl internal: Start rendering
+[2023-04-06 14:14:51:036] appWin.showUrl to app.html finish
+[2023-04-06 14:16:17:510] Uncaught TypeError: Cannot read property 'self' of undefined
+[2023-04-06 16:18:20:640] ipcMain.on commands.CLOSE_APP_WINDOW

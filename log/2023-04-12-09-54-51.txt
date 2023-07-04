@@ -1,0 +1,48 @@
+[2023-04-12 09:54:51:892] app on ready
+[2023-04-12 09:54:51:893] start to install extensions
+[2023-04-12 09:54:51:893] argv.length6
+[2023-04-12 09:54:51:893] x0
+[2023-04-12 09:54:51:893] y0
+[2023-04-12 09:54:51:893] appWindowWidth--960
+[2023-04-12 09:54:51:894] appWindowHeight--516
+[2023-04-12 09:54:51:894] countNaN
+[2023-04-12 09:54:51:894] countstring
+[2023-04-12 09:54:51:894] count-r
+[2023-04-12 09:54:51:894] No-r
+[2023-04-12 09:54:51:895] the install param {isDev}: true
+[2023-04-12 09:54:51:930] begin to download extensions!
+[2023-04-12 09:55:13:090] start to install extensions,total cost: 21196
+[2023-04-12 09:55:13:090] createLoginWindow finish
+[2023-04-12 09:55:13:090] createLoginWindow start act
+[2023-04-12 09:55:13:090] electronWindow.createWindow start
+[2023-04-12 09:55:13:143] electronWindow.createWindow finish
+[2023-04-12 09:55:13:145] addDebugContextMenu start
+[2023-04-12 09:55:13:145] addDebugContextMenu finish
+[2023-04-12 09:55:13:145] loginWin.showUrl to login.html start
+[2023-04-12 09:55:13:165] loginWin.showUrl to login.html finish
+[2023-04-12 09:59:14:084] loginWin.showUrl internal act...
+[2023-04-12 09:59:23:312] loginWin.hide start
+[2023-04-12 09:59:23:313] loginWin.hide finish
+[2023-04-12 09:59:23:313] createAppWindow start
+[2023-04-12 09:59:23:313] electronWindow.createWindow start
+[2023-04-12 09:59:23:320] electronWindow.createWindow finish
+[2023-04-12 09:59:23:320] appWin.maximize
+[2023-04-12 09:59:23:334] addDebugContextMenu to appWin
+[2023-04-12 09:59:23:335] appWin.showUrl to app.html start
+[2023-04-12 09:59:23:339] createAppWindow finish
+[2023-04-12 09:59:23:340] loginWin start
+[2023-04-12 09:59:23:340] destroyWindow
+[2023-04-12 09:59:23:340] win close start
+[2023-04-12 09:59:23:341] win close finish
+[2023-04-12 09:59:23:341] loginWin finish
+[2023-04-12 09:59:25:623] appWin.showUrl internal: Start rendering
+[2023-04-12 09:59:25:623] appWin.showUrl to app.html finish
+[2023-04-12 11:31:29:798] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-12 14:54:26:449] Uncaught TypeError: this.props.onRef is not a function
+[2023-04-12 14:54:32:926] Uncaught TypeError: this.props.onRef is not a function
+[2023-04-12 15:37:16:098] Uncaught TypeError: this.setWarningStatus is not a function
+[2023-04-12 15:40:30:981] Uncaught ReferenceError: red is not defined
+[2023-04-12 15:40:31:107] Uncaught ReferenceError: red is not defined
+[2023-04-12 15:40:31:120] Uncaught ReferenceError: red is not defined
+[2023-04-12 15:50:21:243] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-12 16:04:38:783] ipcMain.on commands.CLOSE_APP_WINDOW

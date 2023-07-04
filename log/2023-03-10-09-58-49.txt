@@ -1,0 +1,62 @@
+[2023-03-10 09:58:49:118] app on ready
+[2023-03-10 09:58:49:118] start to install extensions
+[2023-03-10 09:58:49:119] argv.length6
+[2023-03-10 09:58:49:119] x0
+[2023-03-10 09:58:49:119] y0
+[2023-03-10 09:58:49:119] appWindowWidth--960
+[2023-03-10 09:58:49:119] appWindowHeight--516
+[2023-03-10 09:58:49:119] countNaN
+[2023-03-10 09:58:49:120] countstring
+[2023-03-10 09:58:49:120] count-r
+[2023-03-10 09:58:49:120] No-r
+[2023-03-10 09:58:49:120] the install param {isDev}: true
+[2023-03-10 09:58:49:148] begin to download extensions!
+[2023-03-10 09:58:50:141] start to install extensions,total cost: 1021
+[2023-03-10 09:58:50:141] createLoginWindow finish
+[2023-03-10 09:58:50:141] createLoginWindow start act
+[2023-03-10 09:58:50:141] electronWindow.createWindow start
+[2023-03-10 09:58:50:176] electronWindow.createWindow finish
+[2023-03-10 09:58:50:176] addDebugContextMenu start
+[2023-03-10 09:58:50:176] addDebugContextMenu finish
+[2023-03-10 09:58:50:176] loginWin.showUrl to login.html start
+[2023-03-10 09:58:50:184] loginWin.showUrl to login.html finish
+[2023-03-10 10:03:17:508] loginWin.showUrl internal act...
+[2023-03-10 10:47:51:633] loginWin.hide start
+[2023-03-10 10:47:51:638] loginWin.hide finish
+[2023-03-10 10:47:51:638] createAppWindow start
+[2023-03-10 10:47:51:639] electronWindow.createWindow start
+[2023-03-10 10:47:51:663] electronWindow.createWindow finish
+[2023-03-10 10:47:51:664] appWin.maximize
+[2023-03-10 10:47:51:674] addDebugContextMenu to appWin
+[2023-03-10 10:47:51:675] appWin.showUrl to app.html start
+[2023-03-10 10:47:51:681] createAppWindow finish
+[2023-03-10 10:47:51:681] loginWin start
+[2023-03-10 10:47:51:682] destroyWindow
+[2023-03-10 10:47:51:682] win close start
+[2023-03-10 10:47:51:682] win close finish
+[2023-03-10 10:47:51:682] loginWin finish
+[2023-03-10 10:47:53:516] appWin.showUrl internal: Start rendering
+[2023-03-10 10:47:53:517] appWin.showUrl to app.html finish
+[2023-03-10 10:50:00:709] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 10:53:51:084] Uncaught TypeError: Cannot read property 'PlantDDCWPVibrationVer' of null
+[2023-03-10 10:53:51:085] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-03-10 10:54:37:049] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 10:58:12:528] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:01:44:836] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:07:01:834] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:07:09:821] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:07:44:939] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:09:06:158] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:10:27:088] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:18:22:286] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:20:10:633] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:20:16:734] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:21:06:905] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:21:44:409] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:23:08:677] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:23:19:416] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:23:25:597] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:24:22:447] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:25:19:018] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:26:28:859] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-10 11:27:44:187] ipcMain.on commands.CLOSE_APP_WINDOW

@@ -1,0 +1,43 @@
+[2023-03-07 13:56:28:200] app on ready
+[2023-03-07 13:56:28:201] start to install extensions
+[2023-03-07 13:56:28:201] argv.length6
+[2023-03-07 13:56:28:201] x0
+[2023-03-07 13:56:28:201] y0
+[2023-03-07 13:56:28:201] appWindowWidth--960
+[2023-03-07 13:56:28:202] appWindowHeight--516
+[2023-03-07 13:56:28:202] countNaN
+[2023-03-07 13:56:28:202] countstring
+[2023-03-07 13:56:28:202] count-r
+[2023-03-07 13:56:28:202] No-r
+[2023-03-07 13:56:28:202] the install param {isDev}: true
+[2023-03-07 13:56:28:228] begin to download extensions!
+[2023-03-07 13:56:28:812] start to install extensions,total cost: 610
+[2023-03-07 13:56:28:812] createLoginWindow finish
+[2023-03-07 13:56:28:812] createLoginWindow start act
+[2023-03-07 13:56:28:813] electronWindow.createWindow start
+[2023-03-07 13:56:28:837] electronWindow.createWindow finish
+[2023-03-07 13:56:28:838] addDebugContextMenu start
+[2023-03-07 13:56:28:838] addDebugContextMenu finish
+[2023-03-07 13:56:28:838] loginWin.showUrl to login.html start
+[2023-03-07 13:56:28:847] loginWin.showUrl to login.html finish
+[2023-03-07 14:00:48:127] loginWin.showUrl internal act...
+[2023-03-07 14:01:16:399] loginWin.hide start
+[2023-03-07 14:01:16:400] loginWin.hide finish
+[2023-03-07 14:01:16:400] createAppWindow start
+[2023-03-07 14:01:16:400] electronWindow.createWindow start
+[2023-03-07 14:01:16:409] electronWindow.createWindow finish
+[2023-03-07 14:01:16:410] appWin.maximize
+[2023-03-07 14:01:16:425] addDebugContextMenu to appWin
+[2023-03-07 14:01:16:425] appWin.showUrl to app.html start
+[2023-03-07 14:01:16:428] createAppWindow finish
+[2023-03-07 14:01:16:429] loginWin start
+[2023-03-07 14:01:16:429] destroyWindow
+[2023-03-07 14:01:16:429] win close start
+[2023-03-07 14:01:16:430] win close finish
+[2023-03-07 14:01:16:430] loginWin finish
+[2023-03-07 14:01:18:549] appWin.showUrl internal: Start rendering
+[2023-03-07 14:01:18:549] appWin.showUrl to app.html finish
+[2023-03-07 14:09:05:830] Uncaught ReferenceError: modelPolygon is not defined
+[2023-03-07 14:09:07:594] Uncaught ReferenceError: modelPolygon is not defined
+[2023-03-07 14:09:54:146] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-07 14:15:19:184] ipcMain.on commands.CLOSE_APP_WINDOW

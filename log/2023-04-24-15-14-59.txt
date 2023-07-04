@@ -1,0 +1,44 @@
+[2023-04-24 15:14:59:801] app on ready
+[2023-04-24 15:14:59:801] start to install extensions
+[2023-04-24 15:14:59:802] argv.length6
+[2023-04-24 15:14:59:802] x0
+[2023-04-24 15:14:59:802] y0
+[2023-04-24 15:14:59:802] appWindowWidth--960
+[2023-04-24 15:14:59:802] appWindowHeight--516
+[2023-04-24 15:14:59:802] countNaN
+[2023-04-24 15:14:59:803] countstring
+[2023-04-24 15:14:59:803] count-r
+[2023-04-24 15:14:59:803] No-r
+[2023-04-24 15:14:59:803] the install param {isDev}: true
+[2023-04-24 15:14:59:827] begin to download extensions!
+[2023-04-24 15:15:00:943] start to install extensions,total cost: 1140
+[2023-04-24 15:15:00:943] createLoginWindow finish
+[2023-04-24 15:15:00:943] createLoginWindow start act
+[2023-04-24 15:15:00:943] electronWindow.createWindow start
+[2023-04-24 15:15:00:962] electronWindow.createWindow finish
+[2023-04-24 15:15:00:963] addDebugContextMenu start
+[2023-04-24 15:15:00:963] addDebugContextMenu finish
+[2023-04-24 15:15:00:963] loginWin.showUrl to login.html start
+[2023-04-24 15:15:00:970] loginWin.showUrl to login.html finish
+[2023-04-24 15:19:25:815] loginWin.showUrl internal act...
+[2023-04-24 15:22:03:178] loginWin.hide start
+[2023-04-24 15:22:03:179] loginWin.hide finish
+[2023-04-24 15:22:03:179] createAppWindow start
+[2023-04-24 15:22:03:179] electronWindow.createWindow start
+[2023-04-24 15:22:03:187] electronWindow.createWindow finish
+[2023-04-24 15:22:03:187] appWin.maximize
+[2023-04-24 15:22:03:203] addDebugContextMenu to appWin
+[2023-04-24 15:22:03:203] appWin.showUrl to app.html start
+[2023-04-24 15:22:03:207] createAppWindow finish
+[2023-04-24 15:22:03:207] loginWin start
+[2023-04-24 15:22:03:207] destroyWindow
+[2023-04-24 15:22:03:208] win close start
+[2023-04-24 15:22:03:209] win close finish
+[2023-04-24 15:22:03:209] loginWin finish
+[2023-04-24 15:22:05:454] appWin.showUrl internal: Start rendering
+[2023-04-24 15:22:05:455] appWin.showUrl to app.html finish
+[2023-04-24 15:40:38:777] Uncaught TypeError: Cannot read property 'on' of undefined
+[2023-04-24 15:41:08:574] Uncaught TypeError: Cannot read property 'on' of undefined
+[2023-04-24 16:05:17:402] Uncaught TypeError: Cannot read property 'style' of null
+[2023-04-24 16:05:27:165] Uncaught TypeError: Cannot read property 'style' of null
+[2023-04-24 16:09:48:108] Uncaught TypeError: Cannot read property 'style' of null

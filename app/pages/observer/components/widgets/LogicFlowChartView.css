@@ -1,0 +1,10 @@
+
+.table-container{
+    position: absolute;
+    /* width: 515px;
+    height: 287px;
+    top: 609px;
+    left:377px; */
+    color: #c7c9ce;
+    z-index: 3
+}

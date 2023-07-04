@@ -1,0 +1,88 @@
+[2023-03-02 15:10:03:305] app on ready
+[2023-03-02 15:10:03:306] start to install extensions
+[2023-03-02 15:10:03:306] argv.length6
+[2023-03-02 15:10:03:306] x0
+[2023-03-02 15:10:03:306] y0
+[2023-03-02 15:10:03:307] appWindowWidth--960
+[2023-03-02 15:10:03:307] appWindowHeight--516
+[2023-03-02 15:10:03:307] countNaN
+[2023-03-02 15:10:03:307] countstring
+[2023-03-02 15:10:03:307] count-r
+[2023-03-02 15:10:03:307] No-r
+[2023-03-02 15:10:03:308] the install param {isDev}: true
+[2023-03-02 15:10:03:341] begin to download extensions!
+[2023-03-02 15:11:11:512] start to install extensions,total cost: 68204
+[2023-03-02 15:11:11:512] createLoginWindow finish
+[2023-03-02 15:11:11:512] createLoginWindow start act
+[2023-03-02 15:11:11:513] electronWindow.createWindow start
+[2023-03-02 15:11:11:535] electronWindow.createWindow finish
+[2023-03-02 15:11:11:535] addDebugContextMenu start
+[2023-03-02 15:11:11:535] addDebugContextMenu finish
+[2023-03-02 15:11:11:536] loginWin.showUrl to login.html start
+[2023-03-02 15:11:11:544] loginWin.showUrl to login.html finish
+[2023-03-02 15:14:30:685] loginWin.showUrl internal act...
+[2023-03-02 15:14:51:039] loginWin.hide start
+[2023-03-02 15:14:51:039] loginWin.hide finish
+[2023-03-02 15:14:51:039] createAppWindow start
+[2023-03-02 15:14:51:040] electronWindow.createWindow start
+[2023-03-02 15:14:51:046] electronWindow.createWindow finish
+[2023-03-02 15:14:51:047] appWin.maximize
+[2023-03-02 15:14:51:061] addDebugContextMenu to appWin
+[2023-03-02 15:14:51:062] appWin.showUrl to app.html start
+[2023-03-02 15:14:51:065] createAppWindow finish
+[2023-03-02 15:14:51:066] loginWin start
+[2023-03-02 15:14:51:066] destroyWindow
+[2023-03-02 15:14:51:066] win close start
+[2023-03-02 15:14:51:067] win close finish
+[2023-03-02 15:14:51:067] loginWin finish
+[2023-03-02 15:14:53:200] appWin.showUrl internal: Start rendering
+[2023-03-02 15:14:53:200] appWin.showUrl to app.html finish
+[2023-03-02 15:15:57:226] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:21:13:161] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:24:29:079] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:26:02:737] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:27:16:334] Uncaught TypeError: Cannot set property 'getToolPoint' of undefined
+[2023-03-02 15:27:34:821] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:28:30:593] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:29:03:636] Uncaught TypeError: Cannot set property 'getToolPoint' of undefined
+[2023-03-02 15:31:08:795] Uncaught TypeError: Cannot set property 'getToolPoint' of undefined
+[2023-03-02 15:31:21:083] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:34:09:550] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:38:17:318] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:39:49:267] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:43:03:075] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:43:29:988] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:44:39:144] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:45:35:258] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:46:02:036] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:48:02:020] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:49:04:971] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:50:10:609] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:52:25:834] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:56:02:394] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:57:58:729] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:58:29:777] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:59:44:335] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:01:27:915] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:03:36:120] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:06:07:707] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:09:42:398] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:13:16:094] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:14:38:216] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:15:13:651] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:15:21:180] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:17:58:051] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:19:49:335] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:23:10:985] Uncaught TypeError: dispatch is not a function
+[2023-03-02 16:23:40:641] Uncaught TypeError: dispatch is not a function
+[2023-03-02 16:23:44:595] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:24:29:216] Uncaught ReferenceError: showTendencyModal is not defined
+[2023-03-02 16:24:31:248] Uncaught ReferenceError: showTendencyModal is not defined
+[2023-03-02 16:24:33:982] Uncaught ReferenceError: showTendencyModal is not defined
+[2023-03-02 16:24:37:368] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:25:47:034] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:26:50:001] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:31:31:367] Uncaught TypeError: Cannot read property 'type' of undefined
+[2023-03-02 16:31:33:751] Uncaught TypeError: Cannot read property 'type' of undefined
+[2023-03-02 16:31:34:120] Uncaught TypeError: Cannot read property 'type' of undefined
+[2023-03-02 16:31:39:759] ipcMain.on commands.CLOSE_APP_WINDOW

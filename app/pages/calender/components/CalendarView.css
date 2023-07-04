@@ -1,0 +1,92 @@
+.container {
+  position: relative;
+  height: 100%;
+}
+
+.header {
+  height: 10%;
+  text-align: center;
+  font-size: 16px;
+  padding-top: 1%;
+}
+
+.options {
+  float: right;
+  font-size: 12px;
+  width:52%;
+}
+
+.options > button {
+  margin-right: 8px;
+}
+
+.options-left {
+  float: left;
+  font-size: 12px;
+  width: 42%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.options-left  button {
+  margin-left: 8px;
+}
+
+.chart-container {
+  height: 90%;
+  position: absolute;
+  top: 60px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+
+.events {
+  line-height: 24px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.events li {
+  color: #999;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.events li span {
+  vertical-align: middle;
+}
+
+.events li span:first-child {
+  font-size: 9px;
+  margin-right: 4px;
+}
+
+.event-warning {
+  color: #fac450;
+}
+
+.event-normal {
+  color: #108ee9;
+}
+
+.event-error {
+  color: #f50;
+}
+
+.notes-month {
+  text-align: center;
+}
+.notes-month section {
+  font-size: 28px;
+}
+
+.weather-wrap {
+  position: absolute;
+  top: 6px;
+  left: 8px;
+}

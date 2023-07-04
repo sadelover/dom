@@ -1,0 +1,98 @@
+[2023-03-03 09:25:49:489] app on ready
+[2023-03-03 09:25:49:490] start to install extensions
+[2023-03-03 09:25:49:490] argv.length6
+[2023-03-03 09:25:49:491] x0
+[2023-03-03 09:25:49:491] y0
+[2023-03-03 09:25:49:491] appWindowWidth--960
+[2023-03-03 09:25:49:491] appWindowHeight--516
+[2023-03-03 09:25:49:491] countNaN
+[2023-03-03 09:25:49:491] countstring
+[2023-03-03 09:25:49:491] count-r
+[2023-03-03 09:25:49:492] No-r
+[2023-03-03 09:25:49:492] the install param {isDev}: true
+[2023-03-03 09:25:49:518] begin to download extensions!
+[2023-03-03 09:26:16:216] start to install extensions,total cost: 26724
+[2023-03-03 09:26:16:216] createLoginWindow finish
+[2023-03-03 09:26:16:216] createLoginWindow start act
+[2023-03-03 09:26:16:217] electronWindow.createWindow start
+[2023-03-03 09:26:16:253] electronWindow.createWindow finish
+[2023-03-03 09:26:16:254] addDebugContextMenu start
+[2023-03-03 09:26:16:254] addDebugContextMenu finish
+[2023-03-03 09:26:16:254] loginWin.showUrl to login.html start
+[2023-03-03 09:26:16:267] loginWin.showUrl to login.html finish
+[2023-03-03 09:30:03:063] loginWin.showUrl internal act...
+[2023-03-03 09:57:19:391] loginWin.hide start
+[2023-03-03 09:57:19:391] loginWin.hide finish
+[2023-03-03 09:57:19:391] createAppWindow start
+[2023-03-03 09:57:19:392] electronWindow.createWindow start
+[2023-03-03 09:57:19:398] electronWindow.createWindow finish
+[2023-03-03 09:57:19:398] appWin.maximize
+[2023-03-03 09:57:19:415] addDebugContextMenu to appWin
+[2023-03-03 09:57:19:416] appWin.showUrl to app.html start
+[2023-03-03 09:57:19:423] createAppWindow finish
+[2023-03-03 09:57:19:424] loginWin start
+[2023-03-03 09:57:19:424] destroyWindow
+[2023-03-03 09:57:19:425] win close start
+[2023-03-03 09:57:19:425] win close finish
+[2023-03-03 09:57:19:425] loginWin finish
+[2023-03-03 09:57:21:591] appWin.showUrl internal: Start rendering
+[2023-03-03 09:57:21:591] appWin.showUrl to app.html finish
+[2023-03-03 10:20:13:075] Uncaught ReferenceError: modelPolygon is not defined
+[2023-03-03 10:20:55:015] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:20:58:079] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:21:13:479] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:26:04:913] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:29:41:753] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:32:23:649] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:34:36:930] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:35:59:499] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:38:48:833] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:41:02:818] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:48:53:206] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:54:965] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:55:519] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:56:055] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:56:554] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:56:954] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:57:354] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:57:703] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:57:937] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:58:088] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:58:230] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:58:382] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:58:518] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:58:694] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:48:59:446] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:49:00:038] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:49:00:478] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:49:00:694] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:49:00:871] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:49:01:046] Uncaught TypeError: Cannot set property type of #<Event> which has only a getter
+[2023-03-03 10:49:44:572] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:51:58:142] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:53:29:622] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:54:08:564] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:55:39:639] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:55:41:089] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:55:41:712] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:55:42:255] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:55:42:895] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:55:43:406] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:55:43:591] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:55:43:710] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:55:43:814] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:55:44:889] Uncaught TypeError: Cannot read property 'showCommomAlarm' of undefined
+[2023-03-03 10:55:45:056] Uncaught TypeError: Cannot read property 'showCommomAlarm' of undefined
+[2023-03-03 10:55:45:273] Uncaught TypeError: Cannot read property 'showCommomAlarm' of undefined
+[2023-03-03 10:55:45:440] Uncaught TypeError: Cannot read property 'showCommomAlarm' of undefined
+[2023-03-03 10:55:46:389] Uncaught TypeError: Cannot read property 'getToolPoint' of undefined
+[2023-03-03 10:55:46:523] Uncaught TypeError: Cannot read property 'getToolPoint' of undefined
+[2023-03-03 10:55:46:665] Uncaught TypeError: Cannot read property 'getToolPoint' of undefined
+[2023-03-03 10:55:50:039] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:55:50:174] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:55:50:327] Uncaught TypeError: Cannot read property 'getTendencyModal' of undefined
+[2023-03-03 10:56:05:454] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:56:55:158] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:57:52:873] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:58:43:991] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-03 10:59:50:378] ipcMain.on commands.CLOSE_APP_WINDOW

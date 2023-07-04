@@ -1,0 +1,42 @@
+[2023-04-18 14:35:16:482] app on ready
+[2023-04-18 14:35:16:483] start to install extensions
+[2023-04-18 14:35:16:483] argv.length6
+[2023-04-18 14:35:16:483] x0
+[2023-04-18 14:35:16:483] y0
+[2023-04-18 14:35:16:483] appWindowWidth--960
+[2023-04-18 14:35:16:484] appWindowHeight--516
+[2023-04-18 14:35:16:484] countNaN
+[2023-04-18 14:35:16:484] countstring
+[2023-04-18 14:35:16:484] count-r
+[2023-04-18 14:35:16:484] No-r
+[2023-04-18 14:35:16:484] the install param {isDev}: true
+[2023-04-18 14:35:16:511] begin to download extensions!
+[2023-04-18 14:35:47:387] start to install extensions,total cost: 30903
+[2023-04-18 14:35:47:387] createLoginWindow finish
+[2023-04-18 14:35:47:387] createLoginWindow start act
+[2023-04-18 14:35:47:388] electronWindow.createWindow start
+[2023-04-18 14:35:47:408] electronWindow.createWindow finish
+[2023-04-18 14:35:47:408] addDebugContextMenu start
+[2023-04-18 14:35:47:408] addDebugContextMenu finish
+[2023-04-18 14:35:47:409] loginWin.showUrl to login.html start
+[2023-04-18 14:35:47:417] loginWin.showUrl to login.html finish
+[2023-04-18 14:39:59:874] loginWin.showUrl internal act...
+[2023-04-18 14:43:09:861] loginWin.hide start
+[2023-04-18 14:43:09:861] loginWin.hide finish
+[2023-04-18 14:43:09:861] createAppWindow start
+[2023-04-18 14:43:09:862] electronWindow.createWindow start
+[2023-04-18 14:43:09:870] electronWindow.createWindow finish
+[2023-04-18 14:43:09:870] appWin.maximize
+[2023-04-18 14:43:09:887] addDebugContextMenu to appWin
+[2023-04-18 14:43:09:887] appWin.showUrl to app.html start
+[2023-04-18 14:43:09:892] createAppWindow finish
+[2023-04-18 14:43:09:893] loginWin start
+[2023-04-18 14:43:09:893] destroyWindow
+[2023-04-18 14:43:09:893] win close start
+[2023-04-18 14:43:09:895] win close finish
+[2023-04-18 14:43:09:895] loginWin finish
+[2023-04-18 14:43:33:958] appWin.showUrl internal: Start rendering
+[2023-04-18 14:43:33:959] appWin.showUrl to app.html finish
+[2023-04-18 14:49:19:667] Uncaught ReferenceError: flag is not defined
+[2023-04-18 14:50:22:027] Uncaught ReferenceError: flag is not defined
+[2023-04-18 14:51:24:530] Uncaught ReferenceError: flag is not defined

@@ -1,0 +1,47 @@
+[2023-04-14 14:47:10:441] app on ready
+[2023-04-14 14:47:10:441] start to install extensions
+[2023-04-14 14:47:10:442] argv.length6
+[2023-04-14 14:47:10:442] x0
+[2023-04-14 14:47:10:442] y0
+[2023-04-14 14:47:10:442] appWindowWidth--960
+[2023-04-14 14:47:10:442] appWindowHeight--516
+[2023-04-14 14:47:10:442] countNaN
+[2023-04-14 14:47:10:443] countstring
+[2023-04-14 14:47:10:443] count-r
+[2023-04-14 14:47:10:443] No-r
+[2023-04-14 14:47:10:444] the install param {isDev}: true
+[2023-04-14 14:47:10:474] begin to download extensions!
+[2023-04-14 14:47:11:560] start to install extensions,total cost: 1117
+[2023-04-14 14:47:11:560] createLoginWindow finish
+[2023-04-14 14:47:11:561] createLoginWindow start act
+[2023-04-14 14:47:11:561] electronWindow.createWindow start
+[2023-04-14 14:47:11:580] electronWindow.createWindow finish
+[2023-04-14 14:47:11:580] addDebugContextMenu start
+[2023-04-14 14:47:11:581] addDebugContextMenu finish
+[2023-04-14 14:47:11:581] loginWin.showUrl to login.html start
+[2023-04-14 14:47:11:588] loginWin.showUrl to login.html finish
+[2023-04-14 14:51:49:454] loginWin.showUrl internal act...
+[2023-04-14 15:18:26:572] loginWin.hide start
+[2023-04-14 15:18:26:573] loginWin.hide finish
+[2023-04-14 15:18:26:573] createAppWindow start
+[2023-04-14 15:18:26:573] electronWindow.createWindow start
+[2023-04-14 15:18:26:579] electronWindow.createWindow finish
+[2023-04-14 15:18:26:579] appWin.maximize
+[2023-04-14 15:18:26:594] addDebugContextMenu to appWin
+[2023-04-14 15:18:26:594] appWin.showUrl to app.html start
+[2023-04-14 15:18:26:599] createAppWindow finish
+[2023-04-14 15:18:26:599] loginWin start
+[2023-04-14 15:18:26:599] destroyWindow
+[2023-04-14 15:18:26:599] win close start
+[2023-04-14 15:18:26:600] win close finish
+[2023-04-14 15:18:26:600] loginWin finish
+[2023-04-14 15:18:28:920] appWin.showUrl internal: Start rendering
+[2023-04-14 15:18:28:921] appWin.showUrl to app.html finish
+[2023-04-14 15:19:21:797] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-14 15:23:22:597] ipcMain.on commands.MAXIMIZE_APP_WINDOW-当前最大-恢复变小
+[2023-04-14 15:23:22:623] ipcMain.on commands.MAXIMIZE_APP_WINDOW96051600
+[2023-04-14 15:23:22:623] 当前宽960
+[2023-04-14 15:23:22:623] 当前高516
+[2023-04-14 15:23:22:623] 屏幕宽1920
+[2023-04-14 15:23:22:624] 屏幕高1032
+[2023-04-14 15:23:27:384] ipcMain.on commands.CLOSE_APP_WINDOW

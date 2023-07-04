@@ -1,0 +1,42 @@
+.inner-container {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  height: 90%;
+}
+
+.header{
+    padding: 10px;
+    width: 100%;
+    position: relative;
+    height: 44px;
+    line-height: 22px;
+    left: 0;
+    top: 0;
+}
+
+.outer-wrap{
+    width: 100%;
+}
+
+.btns-wrap{
+    margin-left:180px;
+    float:left;
+}
+.btn-common{
+    margin-right: 10px;
+}
+
+.search-wrap{
+    float: right;
+    margin-right:180px;
+}
+.table-wrap{
+    width: 100%;
+    padding: 10px;
+    max-height: 100%;
+    overflow-y: auto
+}

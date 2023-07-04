@@ -1,0 +1,18 @@
+.modal {
+    margin: 0 auto;
+}
+/* .header {
+    
+} */
+.container {
+    margin: 20px auto;
+    width: 1000px;
+    height: 550px;
+    border: 1px solid black;
+    overflow: scroll;
+    /* color:white; */
+}
+.btn {
+    float: right;
+    margin-right: 20px;
+}

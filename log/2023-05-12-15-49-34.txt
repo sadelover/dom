@@ -1,0 +1,46 @@
+[2023-05-12 15:49:34:101] app on ready
+[2023-05-12 15:49:34:102] start to install extensions
+[2023-05-12 15:49:34:102] argv.length6
+[2023-05-12 15:49:34:102] x0
+[2023-05-12 15:49:34:102] y0
+[2023-05-12 15:49:34:103] appWindowWidth--960
+[2023-05-12 15:49:34:103] appWindowHeight--516
+[2023-05-12 15:49:34:103] countNaN
+[2023-05-12 15:49:34:103] countstring
+[2023-05-12 15:49:34:103] count-r
+[2023-05-12 15:49:34:103] No-r
+[2023-05-12 15:49:34:104] the install param {isDev}: true
+[2023-05-12 15:49:34:132] begin to download extensions!
+[2023-05-12 15:49:35:694] start to install extensions,total cost: 1590
+[2023-05-12 15:49:35:694] createLoginWindow finish
+[2023-05-12 15:49:35:694] createLoginWindow start act
+[2023-05-12 15:49:35:694] electronWindow.createWindow start
+[2023-05-12 15:49:35:725] electronWindow.createWindow finish
+[2023-05-12 15:49:35:726] addDebugContextMenu start
+[2023-05-12 15:49:35:726] addDebugContextMenu finish
+[2023-05-12 15:49:35:726] loginWin.showUrl to login.html start
+[2023-05-12 15:49:35:738] loginWin.showUrl to login.html finish
+[2023-05-12 15:54:00:568] loginWin.showUrl internal act...
+[2023-05-12 15:54:04:855] loginWin.hide start
+[2023-05-12 15:54:04:856] loginWin.hide finish
+[2023-05-12 15:54:04:856] createAppWindow start
+[2023-05-12 15:54:04:856] electronWindow.createWindow start
+[2023-05-12 15:54:04:864] electronWindow.createWindow finish
+[2023-05-12 15:54:04:865] appWin.maximize
+[2023-05-12 15:54:04:881] addDebugContextMenu to appWin
+[2023-05-12 15:54:04:882] appWin.showUrl to app.html start
+[2023-05-12 15:54:04:886] createAppWindow finish
+[2023-05-12 15:54:04:886] loginWin start
+[2023-05-12 15:54:04:887] destroyWindow
+[2023-05-12 15:54:04:887] win close start
+[2023-05-12 15:54:04:887] win close finish
+[2023-05-12 15:54:04:888] loginWin finish
+[2023-05-12 15:54:06:927] appWin.showUrl internal: Start rendering
+[2023-05-12 15:54:06:927] appWin.showUrl to app.html finish
+[2023-05-12 15:56:24:153] Uncaught TypeError: warningData.reverse is not a function
+[2023-05-12 15:56:24:174] Uncaught TypeError: warningData.reverse is not a function
+[2023-05-12 15:56:24:175] Uncaught TypeError: warningData.reverse is not a function
+[2023-05-12 15:56:24:176] Uncaught TypeError: warningData.reverse is not a function
+[2023-05-12 15:57:11:929] Uncaught TypeError: Cannot read property 'EquipmentAutoOpenClosePermit' of null
+[2023-05-12 15:57:11:930] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-05-12 15:59:27:737] appWin.webContents.on crashed

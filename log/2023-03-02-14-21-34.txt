@@ -1,0 +1,56 @@
+[2023-03-02 14:21:34:644] app on ready
+[2023-03-02 14:21:34:644] start to install extensions
+[2023-03-02 14:21:34:644] argv.length6
+[2023-03-02 14:21:34:645] x0
+[2023-03-02 14:21:34:645] y0
+[2023-03-02 14:21:34:645] appWindowWidth--960
+[2023-03-02 14:21:34:645] appWindowHeight--516
+[2023-03-02 14:21:34:645] countNaN
+[2023-03-02 14:21:34:645] countstring
+[2023-03-02 14:21:34:646] count-r
+[2023-03-02 14:21:34:646] No-r
+[2023-03-02 14:21:34:646] the install param {isDev}: true
+[2023-03-02 14:21:34:673] begin to download extensions!
+[2023-03-02 14:22:42:546] start to install extensions,total cost: 67900
+[2023-03-02 14:22:42:546] createLoginWindow finish
+[2023-03-02 14:22:42:546] createLoginWindow start act
+[2023-03-02 14:22:42:546] electronWindow.createWindow start
+[2023-03-02 14:22:42:589] electronWindow.createWindow finish
+[2023-03-02 14:22:42:590] addDebugContextMenu start
+[2023-03-02 14:22:42:590] addDebugContextMenu finish
+[2023-03-02 14:22:42:591] loginWin.showUrl to login.html start
+[2023-03-02 14:22:42:607] loginWin.showUrl to login.html finish
+[2023-03-02 14:25:59:410] loginWin.showUrl internal act...
+[2023-03-02 14:26:18:803] loginWin.hide start
+[2023-03-02 14:26:18:804] loginWin.hide finish
+[2023-03-02 14:26:18:804] createAppWindow start
+[2023-03-02 14:26:18:804] electronWindow.createWindow start
+[2023-03-02 14:26:18:811] electronWindow.createWindow finish
+[2023-03-02 14:26:18:812] appWin.maximize
+[2023-03-02 14:26:18:829] addDebugContextMenu to appWin
+[2023-03-02 14:26:18:830] appWin.showUrl to app.html start
+[2023-03-02 14:26:18:837] createAppWindow finish
+[2023-03-02 14:26:18:837] loginWin start
+[2023-03-02 14:26:18:837] destroyWindow
+[2023-03-02 14:26:18:838] win close start
+[2023-03-02 14:26:18:838] win close finish
+[2023-03-02 14:26:18:839] loginWin finish
+[2023-03-02 14:26:21:080] appWin.showUrl internal: Start rendering
+[2023-03-02 14:26:21:080] appWin.showUrl to app.html finish
+[2023-03-02 14:40:47:106] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 14:43:37:500] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 14:50:23:075] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 14:51:47:107] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 14:53:14:369] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 14:55:26:897] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 14:55:52:584] Uncaught TypeError: ModelPolygon.showModal is not a function
+[2023-03-02 14:56:49:095] Uncaught TypeError: ModelPolygon.showModal is not a function
+[2023-03-02 14:56:52:253] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:00:55:685] Uncaught ReferenceError: showModal is not defined
+[2023-03-02 15:01:11:619] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:04:27:133] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:05:41:558] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:07:10:508] Uncaught TypeError: Cannot set property 'idCom' of undefined
+[2023-03-02 15:08:29:388] Uncaught TypeError: Cannot set property 'idCom' of undefined
+[2023-03-02 15:08:39:742] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 15:09:54:441] ipcMain.on commands.CLOSE_APP_WINDOW

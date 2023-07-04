@@ -1,0 +1,43 @@
+[2023-05-08 12:01:48:994] app on ready
+[2023-05-08 12:01:48:994] start to install extensions
+[2023-05-08 12:01:48:995] argv.length6
+[2023-05-08 12:01:48:995] x0
+[2023-05-08 12:01:48:995] y0
+[2023-05-08 12:01:48:995] appWindowWidth--960
+[2023-05-08 12:01:48:995] appWindowHeight--516
+[2023-05-08 12:01:48:996] countNaN
+[2023-05-08 12:01:48:996] countstring
+[2023-05-08 12:01:48:996] count-r
+[2023-05-08 12:01:48:996] No-r
+[2023-05-08 12:01:48:996] the install param {isDev}: true
+[2023-05-08 12:01:49:026] begin to download extensions!
+[2023-05-08 12:01:50:131] start to install extensions,total cost: 1135
+[2023-05-08 12:01:50:131] createLoginWindow finish
+[2023-05-08 12:01:50:131] createLoginWindow start act
+[2023-05-08 12:01:50:132] electronWindow.createWindow start
+[2023-05-08 12:01:50:167] electronWindow.createWindow finish
+[2023-05-08 12:01:50:168] addDebugContextMenu start
+[2023-05-08 12:01:50:168] addDebugContextMenu finish
+[2023-05-08 12:01:50:168] loginWin.showUrl to login.html start
+[2023-05-08 12:01:50:181] loginWin.showUrl to login.html finish
+[2023-05-08 12:08:12:397] loginWin.showUrl internal act...
+[2023-05-08 12:11:08:961] loginWin.hide start
+[2023-05-08 12:11:08:962] loginWin.hide finish
+[2023-05-08 12:11:08:962] createAppWindow start
+[2023-05-08 12:11:08:963] electronWindow.createWindow start
+[2023-05-08 12:11:08:970] electronWindow.createWindow finish
+[2023-05-08 12:11:08:970] appWin.maximize
+[2023-05-08 12:11:08:991] addDebugContextMenu to appWin
+[2023-05-08 12:11:08:992] appWin.showUrl to app.html start
+[2023-05-08 12:11:08:999] createAppWindow finish
+[2023-05-08 12:11:09:001] loginWin start
+[2023-05-08 12:11:09:001] destroyWindow
+[2023-05-08 12:11:09:001] win close start
+[2023-05-08 12:11:09:002] win close finish
+[2023-05-08 12:11:09:002] loginWin finish
+[2023-05-08 12:11:11:339] appWin.showUrl internal: Start rendering
+[2023-05-08 12:11:11:339] appWin.showUrl to app.html finish
+[2023-05-08 12:13:48:318] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-05-08 12:27:05:302] Uncaught TypeError: Cannot read property 'CWPVSDFreq06' of null
+[2023-05-08 12:27:05:302] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-05-08 12:30:11:870] ipcMain.on commands.CLOSE_APP_WINDOW

@@ -1,0 +1,52 @@
+[2023-04-04 13:58:54:691] app on ready
+[2023-04-04 13:58:54:691] start to install extensions
+[2023-04-04 13:58:54:692] argv.length6
+[2023-04-04 13:58:54:692] x0
+[2023-04-04 13:58:54:692] y0
+[2023-04-04 13:58:54:692] appWindowWidth--960
+[2023-04-04 13:58:54:692] appWindowHeight--516
+[2023-04-04 13:58:54:693] countNaN
+[2023-04-04 13:58:54:693] countstring
+[2023-04-04 13:58:54:693] count-r
+[2023-04-04 13:58:54:693] No-r
+[2023-04-04 13:58:54:693] the install param {isDev}: true
+[2023-04-04 13:58:54:724] begin to download extensions!
+[2023-04-04 13:58:55:729] start to install extensions,total cost: 1036
+[2023-04-04 13:58:55:730] createLoginWindow finish
+[2023-04-04 13:58:55:730] createLoginWindow start act
+[2023-04-04 13:58:55:730] electronWindow.createWindow start
+[2023-04-04 13:58:55:750] electronWindow.createWindow finish
+[2023-04-04 13:58:55:750] addDebugContextMenu start
+[2023-04-04 13:58:55:751] addDebugContextMenu finish
+[2023-04-04 13:58:55:751] loginWin.showUrl to login.html start
+[2023-04-04 13:58:55:758] loginWin.showUrl to login.html finish
+[2023-04-04 14:03:28:455] loginWin.showUrl internal act...
+[2023-04-04 14:04:59:426] loginWin.hide start
+[2023-04-04 14:04:59:426] loginWin.hide finish
+[2023-04-04 14:04:59:426] createAppWindow start
+[2023-04-04 14:04:59:427] electronWindow.createWindow start
+[2023-04-04 14:04:59:433] electronWindow.createWindow finish
+[2023-04-04 14:04:59:433] appWin.maximize
+[2023-04-04 14:04:59:450] addDebugContextMenu to appWin
+[2023-04-04 14:04:59:450] appWin.showUrl to app.html start
+[2023-04-04 14:04:59:456] createAppWindow finish
+[2023-04-04 14:04:59:456] loginWin start
+[2023-04-04 14:04:59:457] destroyWindow
+[2023-04-04 14:04:59:457] win close start
+[2023-04-04 14:04:59:458] win close finish
+[2023-04-04 14:04:59:458] loginWin finish
+[2023-04-04 14:05:01:683] appWin.showUrl internal: Start rendering
+[2023-04-04 14:05:01:683] appWin.showUrl to app.html finish
+[2023-04-04 14:32:37:673] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 14:38:25:591] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 14:39:40:360] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 14:41:22:443] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 14:59:35:104] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 15:05:25:937] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 15:06:58:736] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 15:08:00:319] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 15:08:21:369] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 15:11:04:857] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 15:13:29:271] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 15:15:42:537] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-04-04 15:31:26:179] ipcMain.on commands.MINIMIZE_APP_WINDOW

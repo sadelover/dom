@@ -1,0 +1,47 @@
+[2023-04-13 09:48:28:387] app on ready
+[2023-04-13 09:48:28:387] start to install extensions
+[2023-04-13 09:48:28:387] argv.length6
+[2023-04-13 09:48:28:388] x0
+[2023-04-13 09:48:28:388] y0
+[2023-04-13 09:48:28:388] appWindowWidth--960
+[2023-04-13 09:48:28:388] appWindowHeight--516
+[2023-04-13 09:48:28:388] countNaN
+[2023-04-13 09:48:28:388] countstring
+[2023-04-13 09:48:28:388] count-r
+[2023-04-13 09:48:28:388] No-r
+[2023-04-13 09:48:28:389] the install param {isDev}: true
+[2023-04-13 09:48:28:416] begin to download extensions!
+[2023-04-13 09:48:31:419] start to install extensions,total cost: 3030
+[2023-04-13 09:48:31:419] createLoginWindow finish
+[2023-04-13 09:48:31:419] createLoginWindow start act
+[2023-04-13 09:48:31:419] electronWindow.createWindow start
+[2023-04-13 09:48:31:470] electronWindow.createWindow finish
+[2023-04-13 09:48:31:471] addDebugContextMenu start
+[2023-04-13 09:48:31:471] addDebugContextMenu finish
+[2023-04-13 09:48:31:471] loginWin.showUrl to login.html start
+[2023-04-13 09:48:31:485] loginWin.showUrl to login.html finish
+[2023-04-13 09:53:09:987] loginWin.showUrl internal act...
+[2023-04-13 09:54:26:890] loginWin.hide start
+[2023-04-13 09:54:26:890] loginWin.hide finish
+[2023-04-13 09:54:26:890] createAppWindow start
+[2023-04-13 09:54:26:891] electronWindow.createWindow start
+[2023-04-13 09:54:26:898] electronWindow.createWindow finish
+[2023-04-13 09:54:26:898] appWin.maximize
+[2023-04-13 09:54:26:917] addDebugContextMenu to appWin
+[2023-04-13 09:54:26:917] appWin.showUrl to app.html start
+[2023-04-13 09:54:26:922] createAppWindow finish
+[2023-04-13 09:54:26:923] loginWin start
+[2023-04-13 09:54:26:923] destroyWindow
+[2023-04-13 09:54:26:923] win close start
+[2023-04-13 09:54:26:924] win close finish
+[2023-04-13 09:54:26:924] loginWin finish
+[2023-04-13 09:54:29:171] appWin.showUrl internal: Start rendering
+[2023-04-13 09:54:29:171] appWin.showUrl to app.html finish
+[2023-04-13 11:10:18:750] Uncaught ReferenceError: Popover is not defined
+[2023-04-13 11:10:23:869] Uncaught ReferenceError: Popover is not defined
+[2023-04-13 11:10:23:887] Uncaught ReferenceError: Popover is not defined
+[2023-04-13 11:10:30:366] Uncaught ReferenceError: Popover is not defined
+[2023-04-13 11:10:36:632] Uncaught ReferenceError: Popover is not defined
+[2023-04-13 11:44:03:896] Uncaught ReferenceError: data is not defined
+[2023-04-13 11:44:07:061] Uncaught ReferenceError: data is not defined
+[2023-04-13 12:31:06:833] ipcMain.on commands.MINIMIZE_APP_WINDOW

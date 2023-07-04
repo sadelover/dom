@@ -1,0 +1,228 @@
+[2023-04-27 15:41:00:090] app on ready
+[2023-04-27 15:41:00:090] start to install extensions
+[2023-04-27 15:41:00:091] argv.length6
+[2023-04-27 15:41:00:091] x0
+[2023-04-27 15:41:00:091] y0
+[2023-04-27 15:41:00:091] appWindowWidth--960
+[2023-04-27 15:41:00:091] appWindowHeight--516
+[2023-04-27 15:41:00:091] countNaN
+[2023-04-27 15:41:00:091] countstring
+[2023-04-27 15:41:00:092] count-r
+[2023-04-27 15:41:00:092] No-r
+[2023-04-27 15:41:00:092] the install param {isDev}: true
+[2023-04-27 15:41:00:118] begin to download extensions!
+[2023-04-27 15:42:08:261] start to install extensions,total cost: 68169
+[2023-04-27 15:42:08:261] createLoginWindow finish
+[2023-04-27 15:42:08:262] createLoginWindow start act
+[2023-04-27 15:42:08:262] electronWindow.createWindow start
+[2023-04-27 15:42:08:279] electronWindow.createWindow finish
+[2023-04-27 15:42:08:279] addDebugContextMenu start
+[2023-04-27 15:42:08:280] addDebugContextMenu finish
+[2023-04-27 15:42:08:280] loginWin.showUrl to login.html start
+[2023-04-27 15:42:08:287] loginWin.showUrl to login.html finish
+[2023-04-27 15:45:33:748] loginWin.showUrl internal act...
+[2023-04-27 15:49:21:317] loginWin.hide start
+[2023-04-27 15:49:21:318] loginWin.hide finish
+[2023-04-27 15:49:21:318] createAppWindow start
+[2023-04-27 15:49:21:318] electronWindow.createWindow start
+[2023-04-27 15:49:21:356] electronWindow.createWindow finish
+[2023-04-27 15:49:21:356] appWin.maximize
+[2023-04-27 15:49:21:369] addDebugContextMenu to appWin
+[2023-04-27 15:49:21:369] appWin.showUrl to app.html start
+[2023-04-27 15:49:21:376] createAppWindow finish
+[2023-04-27 15:49:21:377] loginWin start
+[2023-04-27 15:49:21:377] destroyWindow
+[2023-04-27 15:49:21:377] win close start
+[2023-04-27 15:49:21:378] win close finish
+[2023-04-27 15:49:21:378] loginWin finish
+[2023-04-27 15:49:23:637] appWin.showUrl internal: Start rendering
+[2023-04-27 15:49:23:637] appWin.showUrl to app.html finish
+[2023-04-27 15:52:37:121] Uncaught TypeError: Cannot read property 'Plant01CWPOnOff04' of null
+[2023-04-27 15:52:37:122] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-27 16:00:45:270] Uncaught TypeError: Cannot read property 'Plant01CWPOnOff04' of null
+[2023-04-27 16:00:45:271] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-27 16:00:45:857] Uncaught TypeError: Cannot read property 'drawMeterPointer' of undefined
+[2023-04-27 16:23:19:988] Uncaught TypeError: this.showPointTendencyModal is not a function
+[2023-04-27 16:37:49:801] Uncaught ReferenceError: ReactEcharts is not defined
+[2023-04-27 16:37:51:942] Uncaught ReferenceError: ReactEcharts is not defined
+[2023-04-27 16:37:51:943] Uncaught ReferenceError: ReactEcharts is not defined
+[2023-04-27 16:37:51:944] Uncaught ReferenceError: ReactEcharts is not defined
+[2023-04-27 16:38:03:518] Uncaught ReferenceError: ReactEcharts is not defined
+[2023-04-27 16:38:03:518] Uncaught ReferenceError: ReactEcharts is not defined
+[2023-04-27 16:38:03:519] Uncaught ReferenceError: ReactEcharts is not defined
+[2023-04-27 16:38:04:251] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:07:325] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:12:424] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:12:425] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:14:932] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:14:933] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:14:933] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:28:935] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:28:936] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:28:936] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:28:985] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:37:824] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:37:824] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:37:824] Uncaught TypeError: this.chartOption is not a function
+[2023-04-27 16:38:41:344] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:38:42:325] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:38:42:326] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:38:49:208] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:38:49:209] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:38:49:209] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:00:699] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:00:700] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:00:700] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:12:234] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:12:234] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:12:234] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:12:474] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:12:475] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:23:769] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:23:770] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:23:770] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:35:152] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:35:152] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:35:153] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:40:467] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:42:523] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:42:524] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:46:682] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:46:682] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:46:683] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:58:264] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:58:265] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:39:58:265] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:10:041] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:10:042] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:10:042] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:12:620] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:12:621] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:21:506] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:21:507] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:21:507] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:33:127] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:33:128] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:33:128] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:33:288] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:33:371] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:42:848] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:42:880] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:44:501] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:44:501] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:44:502] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:53:407] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:56:131] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:56:131] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:40:56:131] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:07:727] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:07:728] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:07:728] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:12:813] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:12:814] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:19:309] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:19:310] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:19:310] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:31:051] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:31:051] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:31:052] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:42:667] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:42:668] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:42:669] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:42:908] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:42:910] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:51:678] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:52:048] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:54:146] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:54:147] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:41:54:147] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:05:579] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:05:580] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:05:580] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:06:367] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:13:200] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:13:229] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:13:912] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:17:000] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:17:001] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:17:001] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:28:553] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:28:553] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:28:554] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:38:065] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:39:995] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:39:995] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:39:995] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:43:205] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:43:206] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:51:506] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:51:507] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:42:51:507] Uncaught TypeError: this.getChartOption is not a function
+[2023-04-27 16:43:05:316] Uncaught Error: option is null/undefined
+[2023-04-27 16:45:16:421] Uncaught TypeError: Cannot read property 'Plant01CWPOnOff04' of null
+[2023-04-27 16:45:16:422] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-27 16:45:17:015] Uncaught TypeError: Cannot read property 'drawMeterPan' of undefined
+[2023-04-27 16:45:17:016] Uncaught TypeError: Cannot read property 'drawMeterPointer' of undefined
+[2023-04-27 16:45:31:989] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:45:36:515] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:45:41:331] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:45:46:060] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:45:52:880] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:46:04:405] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:46:15:843] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:46:16:163] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:46:27:234] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:46:38:655] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:46:41:772] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:46:46:266] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:46:50:101] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:47:01:805] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:47:13:403] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:47:16:397] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:47:25:052] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:47:36:673] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:47:46:521] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:47:48:403] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:47:50:970] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:47:55:098] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:48:00:423] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:48:12:176] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:48:17:563] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:48:24:248] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:48:35:916] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:48:48:280] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:48:48:375] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:00:378] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:00:505] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:05:358] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:08:024] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:08:118] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:08:756] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:09:224] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:09:445] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:09:539] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:25:015] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:30:444] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:30:500] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:40:807] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:47:519] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:49:51:042] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:50:01:410] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:50:11:760] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:50:17:473] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:50:22:120] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:50:32:476] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:50:42:853] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:50:43:539] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:50:47:719] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:50:53:207] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:51:03:557] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:51:06:636] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:51:06:719] Uncaught TypeError: Cannot read property 'get' of undefined
+[2023-04-27 16:54:09:254] Uncaught TypeError: Cannot read property 'getRawIndex' of undefined
+[2023-04-27 17:09:18:844] Uncaught TypeError: Cannot read property 'Plant01CWPOnOff04' of null
+[2023-04-27 17:09:18:845] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-27 17:12:37:051] Uncaught TypeError: Cannot read property 'on' of undefined
+[2023-04-27 17:12:44:488] Uncaught TypeError: Cannot read property 'on' of undefined
+[2023-04-27 17:16:11:501] Uncaught TypeError: Cannot read property 'Plant01CTGroupRealtimeEfficiency' of null
+[2023-04-27 17:16:11:502] Uncaught TypeError: Cannot read property 'customControls' of null

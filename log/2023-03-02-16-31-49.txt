@@ -1,0 +1,49 @@
+[2023-03-02 16:31:49:140] app on ready
+[2023-03-02 16:31:49:141] start to install extensions
+[2023-03-02 16:31:49:141] argv.length6
+[2023-03-02 16:31:49:141] x0
+[2023-03-02 16:31:49:141] y0
+[2023-03-02 16:31:49:142] appWindowWidth--960
+[2023-03-02 16:31:49:142] appWindowHeight--516
+[2023-03-02 16:31:49:142] countNaN
+[2023-03-02 16:31:49:142] countstring
+[2023-03-02 16:31:49:142] count-r
+[2023-03-02 16:31:49:142] No-r
+[2023-03-02 16:31:49:143] the install param {isDev}: true
+[2023-03-02 16:31:49:169] begin to download extensions!
+[2023-03-02 16:32:57:308] start to install extensions,total cost: 68166
+[2023-03-02 16:32:57:308] createLoginWindow finish
+[2023-03-02 16:32:57:308] createLoginWindow start act
+[2023-03-02 16:32:57:308] electronWindow.createWindow start
+[2023-03-02 16:32:57:330] electronWindow.createWindow finish
+[2023-03-02 16:32:57:331] addDebugContextMenu start
+[2023-03-02 16:32:57:331] addDebugContextMenu finish
+[2023-03-02 16:32:57:331] loginWin.showUrl to login.html start
+[2023-03-02 16:32:57:339] loginWin.showUrl to login.html finish
+[2023-03-02 16:36:13:814] loginWin.showUrl internal act...
+[2023-03-02 16:36:33:608] loginWin.hide start
+[2023-03-02 16:36:33:608] loginWin.hide finish
+[2023-03-02 16:36:33:609] createAppWindow start
+[2023-03-02 16:36:33:609] electronWindow.createWindow start
+[2023-03-02 16:36:33:616] electronWindow.createWindow finish
+[2023-03-02 16:36:33:617] appWin.maximize
+[2023-03-02 16:36:33:631] addDebugContextMenu to appWin
+[2023-03-02 16:36:33:631] appWin.showUrl to app.html start
+[2023-03-02 16:36:33:636] createAppWindow finish
+[2023-03-02 16:36:33:636] loginWin start
+[2023-03-02 16:36:33:636] destroyWindow
+[2023-03-02 16:36:33:637] win close start
+[2023-03-02 16:36:33:637] win close finish
+[2023-03-02 16:36:33:637] loginWin finish
+[2023-03-02 16:36:35:863] appWin.showUrl internal: Start rendering
+[2023-03-02 16:36:35:864] appWin.showUrl to app.html finish
+[2023-03-02 16:40:29:436] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:47:59:210] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 16:51:28:616] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 17:14:38:697] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 17:15:12:911] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-03-02 17:23:44:003] Uncaught ReferenceError: modelPolygon is not defined
+[2023-03-02 17:23:46:003] Uncaught ReferenceError: modelPolygon is not defined
+[2023-03-02 17:23:47:321] Uncaught ReferenceError: modelPolygon is not defined
+[2023-03-02 17:23:47:838] Uncaught ReferenceError: modelPolygon is not defined
+[2023-03-02 17:23:49:853] Uncaught ReferenceError: modelPolygon is not defined

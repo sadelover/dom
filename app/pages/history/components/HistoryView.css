@@ -1,0 +1,39 @@
+/* HistoryView.css */
+.container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: #1b2431;
+  z-index: 1
+}
+
+.container-inner {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.chart-container-wrap {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  left: 400px;
+}
+
+.points-container-wrap {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 400px;
+}
+
+.chart-container-wrap, .points-container-wrap {
+  background-color: #222c3b;
+  border: 1px solid #313d4f;
+}

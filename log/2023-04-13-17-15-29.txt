@@ -1,0 +1,40 @@
+[2023-04-13 17:15:29:154] app on ready
+[2023-04-13 17:15:29:155] start to install extensions
+[2023-04-13 17:15:29:155] argv.length6
+[2023-04-13 17:15:29:155] x0
+[2023-04-13 17:15:29:155] y0
+[2023-04-13 17:15:29:155] appWindowWidth--960
+[2023-04-13 17:15:29:155] appWindowHeight--516
+[2023-04-13 17:15:29:156] countNaN
+[2023-04-13 17:15:29:156] countstring
+[2023-04-13 17:15:29:156] count-r
+[2023-04-13 17:15:29:156] No-r
+[2023-04-13 17:15:29:156] the install param {isDev}: true
+[2023-04-13 17:15:29:185] begin to download extensions!
+[2023-04-13 17:15:30:452] start to install extensions,total cost: 1296
+[2023-04-13 17:15:30:452] createLoginWindow finish
+[2023-04-13 17:15:30:452] createLoginWindow start act
+[2023-04-13 17:15:30:452] electronWindow.createWindow start
+[2023-04-13 17:15:30:473] electronWindow.createWindow finish
+[2023-04-13 17:15:30:474] addDebugContextMenu start
+[2023-04-13 17:15:30:474] addDebugContextMenu finish
+[2023-04-13 17:15:30:474] loginWin.showUrl to login.html start
+[2023-04-13 17:15:30:482] loginWin.showUrl to login.html finish
+[2023-04-13 17:20:20:954] loginWin.showUrl internal act...
+[2023-04-13 17:20:25:093] loginWin.hide start
+[2023-04-13 17:20:25:094] loginWin.hide finish
+[2023-04-13 17:20:25:094] createAppWindow start
+[2023-04-13 17:20:25:094] electronWindow.createWindow start
+[2023-04-13 17:20:25:103] electronWindow.createWindow finish
+[2023-04-13 17:20:25:104] appWin.maximize
+[2023-04-13 17:20:25:123] addDebugContextMenu to appWin
+[2023-04-13 17:20:25:124] appWin.showUrl to app.html start
+[2023-04-13 17:20:25:134] createAppWindow finish
+[2023-04-13 17:20:25:135] loginWin start
+[2023-04-13 17:20:25:135] destroyWindow
+[2023-04-13 17:20:25:135] win close start
+[2023-04-13 17:20:25:135] win close finish
+[2023-04-13 17:20:25:136] loginWin finish
+[2023-04-13 17:20:27:109] appWin.showUrl internal: Start rendering
+[2023-04-13 17:20:27:110] appWin.showUrl to app.html finish
+[2023-04-13 17:28:47:583] ipcMain.on commands.MINIMIZE_APP_WINDOW

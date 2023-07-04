@@ -1,0 +1,79 @@
+[2023-02-28 09:25:00:621] app on ready
+[2023-02-28 09:25:00:621] start to install extensions
+[2023-02-28 09:25:00:621] argv.length6
+[2023-02-28 09:25:00:621] x0
+[2023-02-28 09:25:00:622] y0
+[2023-02-28 09:25:00:622] appWindowWidth--960
+[2023-02-28 09:25:00:622] appWindowHeight--516
+[2023-02-28 09:25:00:622] countNaN
+[2023-02-28 09:25:00:622] countstring
+[2023-02-28 09:25:00:622] count-r
+[2023-02-28 09:25:00:622] No-r
+[2023-02-28 09:25:00:623] the install param {isDev}: true
+[2023-02-28 09:25:00:650] begin to download extensions!
+[2023-02-28 09:25:01:506] start to install extensions,total cost: 883
+[2023-02-28 09:25:01:506] createLoginWindow finish
+[2023-02-28 09:25:01:507] createLoginWindow start act
+[2023-02-28 09:25:01:507] electronWindow.createWindow start
+[2023-02-28 09:25:01:542] electronWindow.createWindow finish
+[2023-02-28 09:25:01:543] addDebugContextMenu start
+[2023-02-28 09:25:01:543] addDebugContextMenu finish
+[2023-02-28 09:25:01:543] loginWin.showUrl to login.html start
+[2023-02-28 09:25:01:559] loginWin.showUrl to login.html finish
+[2023-02-28 09:29:22:424] loginWin.showUrl internal act...
+[2023-02-28 09:37:14:259] loginWin.hide start
+[2023-02-28 09:37:14:260] loginWin.hide finish
+[2023-02-28 09:37:14:260] createAppWindow start
+[2023-02-28 09:37:14:260] electronWindow.createWindow start
+[2023-02-28 09:37:14:267] electronWindow.createWindow finish
+[2023-02-28 09:37:14:267] appWin.maximize
+[2023-02-28 09:37:14:282] addDebugContextMenu to appWin
+[2023-02-28 09:37:14:282] appWin.showUrl to app.html start
+[2023-02-28 09:37:14:289] createAppWindow finish
+[2023-02-28 09:37:14:290] loginWin start
+[2023-02-28 09:37:14:290] destroyWindow
+[2023-02-28 09:37:14:290] win close start
+[2023-02-28 09:37:14:291] win close finish
+[2023-02-28 09:37:14:292] loginWin finish
+[2023-02-28 09:37:16:172] appWin.showUrl internal: Start rendering
+[2023-02-28 09:37:16:172] appWin.showUrl to app.html finish
+[2023-02-28 09:38:24:030] Uncaught TypeError: Cannot read property 'event' of undefined
+[2023-02-28 09:39:06:568] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 09:39:48:200] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 09:43:20:034] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 09:43:47:385] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 09:45:58:436] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 09:46:46:267] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 09:57:20:706] Uncaught TypeError: Cannot read property 'showLoading' of undefined
+[2023-02-28 09:57:22:284] Uncaught TypeError: Cannot read property 'showLoading' of undefined
+[2023-02-28 09:59:03:138] Uncaught TypeError: Cannot read property 'showLoading' of undefined
+[2023-02-28 09:59:04:389] Uncaught TypeError: Cannot read property 'showLoading' of undefined
+[2023-02-28 09:59:05:074] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 09:59:43:506] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 10:21:52:364] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 10:21:59:199] Uncaught TypeError: Cannot read property 'showLoading' of undefined
+[2023-02-28 10:22:00:710] Uncaught TypeError: Cannot read property 'showLoading' of undefined
+[2023-02-28 10:23:13:626] Uncaught TypeError: Cannot read property 'showLoading' of undefined
+[2023-02-28 10:23:25:800] Uncaught TypeError: Cannot read property 'showLoading' of undefined
+[2023-02-28 10:23:27:582] Uncaught TypeError: Cannot read property 'showLoading' of undefined
+[2023-02-28 10:24:01:836] Uncaught TypeError: Cannot read property 'showLoading' of undefined
+[2023-02-28 10:24:02:710] Uncaught TypeError: Cannot read property 'showLoading' of undefined
+[2023-02-28 10:27:49:024] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 10:34:11:854] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 10:36:27:327] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 10:42:48:597] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 10:45:48:259] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 10:46:28:934] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 10:47:09:116] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 10:59:06:178] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 10:59:25:313] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 11:01:03:363] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 11:01:19:051] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 11:01:54:898] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 11:02:47:798] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 11:04:17:252] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 11:08:51:761] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 11:13:36:427] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 11:15:27:468] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 11:18:42:167] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-02-28 11:33:59:789] ipcMain.on commands.CLOSE_APP_WINDOW

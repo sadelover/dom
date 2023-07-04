@@ -1,0 +1,46 @@
+[2023-04-14 10:57:46:236] app on ready
+[2023-04-14 10:57:46:236] start to install extensions
+[2023-04-14 10:57:46:236] argv.length6
+[2023-04-14 10:57:46:237] x0
+[2023-04-14 10:57:46:237] y0
+[2023-04-14 10:57:46:237] appWindowWidth--960
+[2023-04-14 10:57:46:237] appWindowHeight--516
+[2023-04-14 10:57:46:237] countNaN
+[2023-04-14 10:57:46:237] countstring
+[2023-04-14 10:57:46:238] count-r
+[2023-04-14 10:57:46:238] No-r
+[2023-04-14 10:57:46:238] the install param {isDev}: true
+[2023-04-14 10:57:46:262] begin to download extensions!
+[2023-04-14 10:57:46:915] start to install extensions,total cost: 677
+[2023-04-14 10:57:46:916] createLoginWindow finish
+[2023-04-14 10:57:46:916] createLoginWindow start act
+[2023-04-14 10:57:46:916] electronWindow.createWindow start
+[2023-04-14 10:57:46:935] electronWindow.createWindow finish
+[2023-04-14 10:57:46:935] addDebugContextMenu start
+[2023-04-14 10:57:46:935] addDebugContextMenu finish
+[2023-04-14 10:57:46:936] loginWin.showUrl to login.html start
+[2023-04-14 10:57:46:945] loginWin.showUrl to login.html finish
+[2023-04-14 11:02:05:379] loginWin.showUrl internal act...
+[2023-04-14 11:04:24:864] loginWin.hide start
+[2023-04-14 11:04:24:865] loginWin.hide finish
+[2023-04-14 11:04:24:865] createAppWindow start
+[2023-04-14 11:04:24:865] electronWindow.createWindow start
+[2023-04-14 11:04:24:872] electronWindow.createWindow finish
+[2023-04-14 11:04:24:872] appWin.maximize
+[2023-04-14 11:04:24:881] addDebugContextMenu to appWin
+[2023-04-14 11:04:24:881] appWin.showUrl to app.html start
+[2023-04-14 11:04:24:884] createAppWindow finish
+[2023-04-14 11:04:24:885] loginWin start
+[2023-04-14 11:04:24:885] destroyWindow
+[2023-04-14 11:04:24:885] win close start
+[2023-04-14 11:04:24:885] win close finish
+[2023-04-14 11:04:24:886] loginWin finish
+[2023-04-14 11:04:26:980] appWin.showUrl internal: Start rendering
+[2023-04-14 11:04:26:981] appWin.showUrl to app.html finish
+[2023-04-14 11:33:03:242] Uncaught ReferenceError: selectBtnBg is not defined
+[2023-04-14 11:34:08:137] Uncaught TypeError: Cannot set property 'type' of null
+[2023-04-14 11:35:21:336] Uncaught TypeError: Cannot read property 'setAttribute' of null
+[2023-04-14 11:40:38:954] Uncaught TypeError: Cannot read property 'style' of null
+[2023-04-14 11:44:24:793] Uncaught TypeError: Cannot read property 'style' of null
+[2023-04-14 12:01:58:659] Uncaught TypeError: Cannot read property 'style' of null
+[2023-04-14 14:46:58:712] ipcMain.on commands.CLOSE_APP_WINDOW

@@ -1,0 +1,45 @@
+[2023-04-19 09:37:40:155] app on ready
+[2023-04-19 09:37:40:156] start to install extensions
+[2023-04-19 09:37:40:156] argv.length6
+[2023-04-19 09:37:40:156] x0
+[2023-04-19 09:37:40:156] y0
+[2023-04-19 09:37:40:157] appWindowWidth--960
+[2023-04-19 09:37:40:157] appWindowHeight--516
+[2023-04-19 09:37:40:157] countNaN
+[2023-04-19 09:37:40:157] countstring
+[2023-04-19 09:37:40:157] count-r
+[2023-04-19 09:37:40:158] No-r
+[2023-04-19 09:37:40:158] the install param {isDev}: true
+[2023-04-19 09:37:40:190] begin to download extensions!
+[2023-04-19 09:37:41:123] start to install extensions,total cost: 965
+[2023-04-19 09:37:41:123] createLoginWindow finish
+[2023-04-19 09:37:41:124] createLoginWindow start act
+[2023-04-19 09:37:41:124] electronWindow.createWindow start
+[2023-04-19 09:37:41:160] electronWindow.createWindow finish
+[2023-04-19 09:37:41:160] addDebugContextMenu start
+[2023-04-19 09:37:41:161] addDebugContextMenu finish
+[2023-04-19 09:37:41:161] loginWin.showUrl to login.html start
+[2023-04-19 09:37:41:177] loginWin.showUrl to login.html finish
+[2023-04-19 09:42:11:819] loginWin.showUrl internal act...
+[2023-04-19 09:43:10:610] loginWin.hide start
+[2023-04-19 09:43:10:611] loginWin.hide finish
+[2023-04-19 09:43:10:611] createAppWindow start
+[2023-04-19 09:43:10:611] electronWindow.createWindow start
+[2023-04-19 09:43:10:618] electronWindow.createWindow finish
+[2023-04-19 09:43:10:618] appWin.maximize
+[2023-04-19 09:43:10:637] addDebugContextMenu to appWin
+[2023-04-19 09:43:10:638] appWin.showUrl to app.html start
+[2023-04-19 09:43:10:643] createAppWindow finish
+[2023-04-19 09:43:10:643] loginWin start
+[2023-04-19 09:43:10:643] destroyWindow
+[2023-04-19 09:43:10:644] win close start
+[2023-04-19 09:43:10:644] win close finish
+[2023-04-19 09:43:10:645] loginWin finish
+[2023-04-19 09:43:12:828] appWin.showUrl internal: Start rendering
+[2023-04-19 09:43:12:829] appWin.showUrl to app.html finish
+[2023-04-19 10:17:02:615] Uncaught TypeError: Cannot read property 'info' of undefined
+[2023-04-19 10:17:17:456] Uncaught TypeError: Cannot read property 'info' of undefined
+[2023-04-19 10:17:18:129] Uncaught TypeError: Cannot read property 'info' of undefined
+[2023-04-19 10:21:36:763] Uncaught TypeError: Cannot read property 'info' of undefined
+[2023-04-19 10:23:43:263] Uncaught TypeError: Cannot read property 'info' of undefined
+[2023-04-19 10:24:20:651] Uncaught TypeError: Cannot read property 'info' of undefined

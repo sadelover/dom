@@ -1,0 +1,32 @@
+.alarm-wrap{
+    width: 100%;
+    padding: 10px;
+}
+
+.table-search{
+    margin-bottom: 15px;
+    margin-top: -15px;
+}
+.table-wrap{
+    margin-bottom: 20px;
+}
+
+.alarm-footer{
+    margin-bottom: -10px;
+}
+.config-btn{
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.edit-btn{
+    float: right;
+    width: 45px;
+    height: 28px;
+    padding: 0 
+}
+.success-btn{
+    background-color: #36AF47
+}
+.success-btn:hover{
+    background-color: #36AF00
+}

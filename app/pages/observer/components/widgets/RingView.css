@@ -1,0 +1,14 @@
+.container{
+    position: absolute;
+    color: #ffffff;
+    /* background-color: #FFFFFF; */
+    z-index: 2;
+}
+.example{
+    text-align: center;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 30px 50px;
+    margin: 20px 0;
+    color:red;
+}

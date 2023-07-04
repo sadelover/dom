@@ -1,0 +1,43 @@
+[2023-05-17 14:35:02:840] app on ready
+[2023-05-17 14:35:02:841] start to install extensions
+[2023-05-17 14:35:02:841] argv.length6
+[2023-05-17 14:35:02:841] x0
+[2023-05-17 14:35:02:842] y0
+[2023-05-17 14:35:02:842] appWindowWidth--960
+[2023-05-17 14:35:02:842] appWindowHeight--516
+[2023-05-17 14:35:02:842] countNaN
+[2023-05-17 14:35:02:842] countstring
+[2023-05-17 14:35:02:842] count-r
+[2023-05-17 14:35:02:843] No-r
+[2023-05-17 14:35:02:843] the install param {isDev}: true
+[2023-05-17 14:35:02:867] begin to download extensions!
+[2023-05-17 14:35:03:534] start to install extensions,total cost: 691
+[2023-05-17 14:35:03:534] createLoginWindow finish
+[2023-05-17 14:35:03:534] createLoginWindow start act
+[2023-05-17 14:35:03:534] electronWindow.createWindow start
+[2023-05-17 14:35:03:554] electronWindow.createWindow finish
+[2023-05-17 14:35:03:554] addDebugContextMenu start
+[2023-05-17 14:35:03:554] addDebugContextMenu finish
+[2023-05-17 14:35:03:555] loginWin.showUrl to login.html start
+[2023-05-17 14:35:03:563] loginWin.showUrl to login.html finish
+[2023-05-17 14:39:42:842] loginWin.showUrl internal act...
+[2023-05-17 14:53:29:110] loginWin.hide start
+[2023-05-17 14:53:29:111] loginWin.hide finish
+[2023-05-17 14:53:29:111] createAppWindow start
+[2023-05-17 14:53:29:111] electronWindow.createWindow start
+[2023-05-17 14:53:29:117] electronWindow.createWindow finish
+[2023-05-17 14:53:29:118] appWin.maximize
+[2023-05-17 14:53:29:135] addDebugContextMenu to appWin
+[2023-05-17 14:53:29:135] appWin.showUrl to app.html start
+[2023-05-17 14:53:29:138] createAppWindow finish
+[2023-05-17 14:53:29:139] loginWin start
+[2023-05-17 14:53:29:139] destroyWindow
+[2023-05-17 14:53:29:139] win close start
+[2023-05-17 14:53:29:140] win close finish
+[2023-05-17 14:53:29:140] loginWin finish
+[2023-05-17 14:53:31:371] appWin.showUrl internal: Start rendering
+[2023-05-17 14:53:31:372] appWin.showUrl to app.html finish
+[2023-05-17 14:53:32:276] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-05-17 15:06:48:377] Uncaught TypeError: Cannot read property 'ChPower02' of null
+[2023-05-17 15:06:48:378] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-05-17 15:10:18:433] ipcMain.on commands.CLOSE_APP_WINDOW

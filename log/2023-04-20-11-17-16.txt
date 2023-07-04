@@ -1,0 +1,56 @@
+[2023-04-20 11:17:16:295] app on ready
+[2023-04-20 11:17:16:296] start to install extensions
+[2023-04-20 11:17:16:296] argv.length6
+[2023-04-20 11:17:16:296] x0
+[2023-04-20 11:17:16:296] y0
+[2023-04-20 11:17:16:296] appWindowWidth--960
+[2023-04-20 11:17:16:296] appWindowHeight--516
+[2023-04-20 11:17:16:297] countNaN
+[2023-04-20 11:17:16:297] countstring
+[2023-04-20 11:17:16:297] count-r
+[2023-04-20 11:17:16:297] No-r
+[2023-04-20 11:17:16:297] the install param {isDev}: true
+[2023-04-20 11:17:16:326] begin to download extensions!
+[2023-04-20 11:17:17:939] start to install extensions,total cost: 1642
+[2023-04-20 11:17:17:939] createLoginWindow finish
+[2023-04-20 11:17:17:940] createLoginWindow start act
+[2023-04-20 11:17:17:940] electronWindow.createWindow start
+[2023-04-20 11:17:17:973] electronWindow.createWindow finish
+[2023-04-20 11:17:17:974] addDebugContextMenu start
+[2023-04-20 11:17:17:974] addDebugContextMenu finish
+[2023-04-20 11:17:17:974] loginWin.showUrl to login.html start
+[2023-04-20 11:17:17:988] loginWin.showUrl to login.html finish
+[2023-04-20 11:21:44:419] loginWin.showUrl internal act...
+[2023-04-20 11:22:03:589] loginWin.hide start
+[2023-04-20 11:22:03:589] loginWin.hide finish
+[2023-04-20 11:22:03:589] createAppWindow start
+[2023-04-20 11:22:03:589] electronWindow.createWindow start
+[2023-04-20 11:22:03:597] electronWindow.createWindow finish
+[2023-04-20 11:22:03:598] appWin.maximize
+[2023-04-20 11:22:03:617] addDebugContextMenu to appWin
+[2023-04-20 11:22:03:618] appWin.showUrl to app.html start
+[2023-04-20 11:22:03:625] createAppWindow finish
+[2023-04-20 11:22:03:625] loginWin start
+[2023-04-20 11:22:03:626] destroyWindow
+[2023-04-20 11:22:03:626] win close start
+[2023-04-20 11:22:03:627] win close finish
+[2023-04-20 11:22:03:627] loginWin finish
+[2023-04-20 11:22:05:921] appWin.showUrl internal: Start rendering
+[2023-04-20 11:22:05:921] appWin.showUrl to app.html finish
+[2023-04-20 11:22:08:341] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:22:38:610] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:23:08:619] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:23:38:927] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:24:08:950] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:24:39:363] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:25:09:419] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:25:39:549] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:26:10:233] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:26:40:497] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:27:10:500] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:27:40:772] Uncaught TypeError: Cannot read property 'reverse' of undefined
+[2023-04-20 11:28:05:858] Uncaught TypeError: Cannot read property 'Plant01OutdoorRH' of null
+[2023-04-20 11:28:05:858] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-20 11:31:35:010] Uncaught TypeError: Cannot read property 'Plant01PriChWPVSDFreq03' of null
+[2023-04-20 11:31:35:010] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-20 11:36:34:777] ipcMain.on commands.CLOSE_APP_WINDOW

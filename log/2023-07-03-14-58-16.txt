@@ -1,0 +1,45 @@
+[2023-07-03 14:58:16:492] app on ready
+[2023-07-03 14:58:16:492] start to install extensions
+[2023-07-03 14:58:16:493] argv.length6
+[2023-07-03 14:58:16:493] x0
+[2023-07-03 14:58:16:493] y0
+[2023-07-03 14:58:16:493] appWindowWidth--960
+[2023-07-03 14:58:16:493] appWindowHeight--516
+[2023-07-03 14:58:16:493] countNaN
+[2023-07-03 14:58:16:494] countstring
+[2023-07-03 14:58:16:494] count-r
+[2023-07-03 14:58:16:494] No-r
+[2023-07-03 14:58:16:494] the install param {isDev}: true
+[2023-07-03 14:58:16:523] begin to download extensions!
+[2023-07-03 14:58:47:337] start to install extensions,total cost: 30843
+[2023-07-03 14:58:47:338] createLoginWindow finish
+[2023-07-03 14:58:47:338] createLoginWindow start act
+[2023-07-03 14:58:47:338] electronWindow.createWindow start
+[2023-07-03 14:58:47:355] electronWindow.createWindow finish
+[2023-07-03 14:58:47:356] addDebugContextMenu start
+[2023-07-03 14:58:47:356] addDebugContextMenu finish
+[2023-07-03 14:58:47:356] loginWin.showUrl to login.html start
+[2023-07-03 14:58:47:363] loginWin.showUrl to login.html finish
+[2023-07-03 15:02:52:805] loginWin.showUrl internal act...
+[2023-07-03 15:06:47:590] loginWin.hide start
+[2023-07-03 15:06:47:590] loginWin.hide finish
+[2023-07-03 15:06:47:590] createAppWindow start
+[2023-07-03 15:06:47:591] electronWindow.createWindow start
+[2023-07-03 15:06:47:599] electronWindow.createWindow finish
+[2023-07-03 15:06:47:599] appWin.maximize
+[2023-07-03 15:06:47:605] addDebugContextMenu to appWin
+[2023-07-03 15:06:47:606] appWin.showUrl to app.html start
+[2023-07-03 15:06:47:610] createAppWindow finish
+[2023-07-03 15:06:47:611] loginWin start
+[2023-07-03 15:06:47:612] destroyWindow
+[2023-07-03 15:06:47:612] win close start
+[2023-07-03 15:06:47:612] win close finish
+[2023-07-03 15:06:47:613] loginWin finish
+[2023-07-03 15:06:49:855] appWin.showUrl internal: Start rendering
+[2023-07-03 15:06:49:855] appWin.showUrl to app.html finish
+[2023-07-03 15:08:00:711] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-07-03 15:08:12:043] Uncaught TypeError: Cannot read property 'ThisDayChillerPlantGroupPowerTotal' of null
+[2023-07-03 15:08:12:044] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-07-03 15:08:23:610] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-07-03 15:08:34:551] ipcMain.on commands.MINIMIZE_APP_WINDOW
+[2023-07-03 15:17:16:030] ipcMain.on commands.CLOSE_APP_WINDOW

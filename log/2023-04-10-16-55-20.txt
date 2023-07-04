@@ -1,0 +1,421 @@
+[2023-04-10 16:55:20:491] app on ready
+[2023-04-10 16:55:20:492] start to install extensions
+[2023-04-10 16:55:20:492] argv.length6
+[2023-04-10 16:55:20:492] x0
+[2023-04-10 16:55:20:492] y0
+[2023-04-10 16:55:20:492] appWindowWidth--960
+[2023-04-10 16:55:20:492] appWindowHeight--516
+[2023-04-10 16:55:20:492] countNaN
+[2023-04-10 16:55:20:492] countstring
+[2023-04-10 16:55:20:492] count-r
+[2023-04-10 16:55:20:492] No-r
+[2023-04-10 16:55:20:493] the install param {isDev}: true
+[2023-04-10 16:55:20:523] begin to download extensions!
+[2023-04-10 16:55:26:400] start to install extensions,total cost: 5907
+[2023-04-10 16:55:26:400] createLoginWindow finish
+[2023-04-10 16:55:26:400] createLoginWindow start act
+[2023-04-10 16:55:26:401] electronWindow.createWindow start
+[2023-04-10 16:55:26:420] electronWindow.createWindow finish
+[2023-04-10 16:55:26:420] addDebugContextMenu start
+[2023-04-10 16:55:26:420] addDebugContextMenu finish
+[2023-04-10 16:55:26:420] loginWin.showUrl to login.html start
+[2023-04-10 16:55:26:429] loginWin.showUrl to login.html finish
+[2023-04-10 17:00:08:931] loginWin.showUrl internal act...
+[2023-04-10 17:22:20:356] loginWin.hide start
+[2023-04-10 17:22:20:357] loginWin.hide finish
+[2023-04-10 17:22:20:357] createAppWindow start
+[2023-04-10 17:22:20:357] electronWindow.createWindow start
+[2023-04-10 17:22:20:363] electronWindow.createWindow finish
+[2023-04-10 17:22:20:363] appWin.maximize
+[2023-04-10 17:22:20:378] addDebugContextMenu to appWin
+[2023-04-10 17:22:20:378] appWin.showUrl to app.html start
+[2023-04-10 17:22:20:381] createAppWindow finish
+[2023-04-10 17:22:20:382] loginWin start
+[2023-04-10 17:22:20:382] destroyWindow
+[2023-04-10 17:22:20:382] win close start
+[2023-04-10 17:22:20:382] win close finish
+[2023-04-10 17:22:20:382] loginWin finish
+[2023-04-10 17:22:23:789] appWin.showUrl internal: Start rendering
+[2023-04-10 17:22:23:790] appWin.showUrl to app.html finish
+[2023-04-10 17:28:34:125] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:28:43:591] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:28:43:626] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:28:43:627] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:28:43:628] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:28:43:628] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:28:43:628] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:28:46:396] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:28:51:568] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:28:56:527] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:29:01:430] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:29:06:559] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:29:11:451] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:29:16:463] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:29:21:468] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:29:26:479] Uncaught TypeError: this.refreshData is not a function
+[2023-04-10 17:31:29:360] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:31:34:372] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:31:39:381] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:31:44:516] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:31:49:529] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:31:54:530] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:31:59:543] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:04:417] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:09:566] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:14:562] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:19:566] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:24:455] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:29:577] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:30:424] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:34:464] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:35:367] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:39:599] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:40:365] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:44:469] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:45:372] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:49:615] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:50:382] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:54:490] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:55:401] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:32:59:642] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:00:400] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:04:518] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:05:416] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:09:649] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:10:417] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:14:535] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:15:432] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:19:688] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:20:450] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:24:551] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:25:449] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:29:696] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:30:466] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:34:568] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:35:466] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:39:705] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:40:470] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:44:587] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:45:485] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:49:730] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:50:499] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:54:603] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:55:503] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:33:59:748] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:00:517] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:04:637] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:05:521] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:09:642] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:10:540] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:14:644] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:15:539] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:19:812] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:20:565] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:24:658] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:25:571] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:29:796] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:30:572] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:34:671] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:34:35:584] Uncaught TypeError: Cannot read property 'CTOnOffSetting03' of null
+[2023-04-10 17:38:05:766] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:38:10:769] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:38:15:784] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:38:20:802] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:38:25:801] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:38:30:804] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:38:35:805] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:38:40:817] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:38:45:818] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:38:50:821] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:38:55:834] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:00:836] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:05:840] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:10:851] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:15:856] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:20:870] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:25:883] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:30:900] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:35:904] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:40:917] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:45:920] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:50:933] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:39:55:933] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:00:933] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:05:950] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:10:955] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:15:957] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:20:960] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:25:969] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:30:972] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:35:983] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:41:000] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:46:002] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:51:005] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:40:56:017] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:01:033] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:06:038] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:11:052] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:16:067] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:21:067] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:26:068] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:31:084] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:36:088] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:41:101] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:46:101] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:51:118] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:41:56:119] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:01:121] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:06:135] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:11:152] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:16:168] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:21:168] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:26:174] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:31:185] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:36:191] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:41:201] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:46:203] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:51:208] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:42:56:218] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:01:221] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:06:234] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:11:251] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:16:256] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:21:257] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:26:272] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:31:284] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:36:284] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:41:288] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:46:290] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:51:303] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:43:56:320] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:01:318] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:06:326] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:11:339] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:16:352] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:21:352] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:26:352] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:31:352] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:36:371] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:41:368] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:46:388] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:51:385] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:44:56:388] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:01:402] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:06:409] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:11:419] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:16:426] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:21:440] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:26:452] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:31:453] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:36:456] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:41:460] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:46:469] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:51:474] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:45:56:486] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:01:489] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:06:492] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:11:507] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:16:509] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:21:519] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:26:536] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:31:536] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:36:553] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:41:555] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:46:570] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:51:574] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:46:56:587] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:01:603] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:06:619] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:11:618] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:16:638] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:21:638] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:26:637] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:31:652] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:36:669] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:41:669] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:46:673] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:51:686] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:47:56:686] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:01:685] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:06:703] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:11:709] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:16:719] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:21:726] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:26:736] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:31:737] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:36:753] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:41:753] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:46:771] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:51:774] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:48:56:787] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:01:790] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:06:794] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:11:805] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:16:806] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:21:822] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:26:826] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:31:839] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:36:839] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:41:856] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:46:856] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:51:873] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:49:56:872] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:01:891] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:06:892] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:11:905] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:16:909] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:21:912] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:26:922] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:31:939] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:36:940] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:41:956] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:46:956] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:51:957] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:50:56:973] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:01:973] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:06:973] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:11:975] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:16:977] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:21:989] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:26:989] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:31:989] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:36:993] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:42:005] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:47:006] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:52:012] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:51:57:027] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:02:039] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:07:041] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:12:043] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:17:057] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:22:058] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:27:073] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:32:089] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:37:090] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:42:107] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:47:107] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:52:110] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:52:57:112] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:02:125] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:07:140] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:12:143] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:17:144] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:22:157] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:27:174] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:32:174] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:37:174] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:42:174] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:47:191] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:52:191] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:53:57:193] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:02:208] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:07:206] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:12:223] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:17:224] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:22:224] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:27:228] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:32:240] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:37:244] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:42:257] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:47:259] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:52:274] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:54:57:291] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:02:292] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:07:294] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:12:294] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:17:308] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:22:311] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:27:312] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:32:324] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:37:325] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:42:331] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:47:343] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:52:345] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:55:57:358] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:02:361] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:07:374] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:12:393] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:17:409] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:22:409] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:27:415] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:32:426] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:37:431] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:42:443] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:47:459] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:52:475] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:56:57:492] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:02:494] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:07:508] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:12:511] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:17:514] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:22:526] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:27:542] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:32:543] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:37:558] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:42:562] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:47:576] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:52:592] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:57:57:593] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:02:592] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:07:593] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:12:609] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:17:615] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:22:627] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:27:626] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:32:627] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:37:629] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:42:643] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:47:644] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:52:660] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:58:57:663] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:02:676] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:07:684] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:12:694] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:17:696] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:22:710] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:27:713] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:32:728] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:37:727] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:42:734] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:47:743] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:52:747] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 17:59:57:760] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:02:761] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:07:761] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:12:778] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:17:778] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:22:783] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:27:797] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:32:810] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:37:810] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:42:813] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:47:826] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:52:828] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:00:57:826] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:02:834] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:07:845] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:12:860] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:17:877] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:22:876] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:27:882] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:32:894] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:37:896] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:42:896] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:47:910] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:52:910] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:01:57:910] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:02:912] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:07:926] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:12:927] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:17:927] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:22:929] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:27:943] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:32:944] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:37:945] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:42:963] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:47:966] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:52:966] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:02:57:977] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:03:02:981] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:03:07:993] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-10 18:03:11:461] ipcMain.on commands.CLOSE_APP_WINDOW

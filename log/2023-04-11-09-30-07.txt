@@ -1,0 +1,44 @@
+[2023-04-11 09:30:07:604] app on ready
+[2023-04-11 09:30:07:605] start to install extensions
+[2023-04-11 09:30:07:605] argv.length6
+[2023-04-11 09:30:07:605] x0
+[2023-04-11 09:30:07:605] y0
+[2023-04-11 09:30:07:605] appWindowWidth--960
+[2023-04-11 09:30:07:606] appWindowHeight--516
+[2023-04-11 09:30:07:606] countNaN
+[2023-04-11 09:30:07:606] countstring
+[2023-04-11 09:30:07:606] count-r
+[2023-04-11 09:30:07:606] No-r
+[2023-04-11 09:30:07:607] the install param {isDev}: true
+[2023-04-11 09:30:07:633] begin to download extensions!
+[2023-04-11 09:30:08:330] start to install extensions,total cost: 723
+[2023-04-11 09:30:08:330] createLoginWindow finish
+[2023-04-11 09:30:08:330] createLoginWindow start act
+[2023-04-11 09:30:08:331] electronWindow.createWindow start
+[2023-04-11 09:30:08:361] electronWindow.createWindow finish
+[2023-04-11 09:30:08:362] addDebugContextMenu start
+[2023-04-11 09:30:08:362] addDebugContextMenu finish
+[2023-04-11 09:30:08:362] loginWin.showUrl to login.html start
+[2023-04-11 09:30:08:373] loginWin.showUrl to login.html finish
+[2023-04-11 09:34:34:809] loginWin.showUrl internal act...
+[2023-04-11 09:36:34:791] loginWin.hide start
+[2023-04-11 09:36:34:792] loginWin.hide finish
+[2023-04-11 09:36:34:792] createAppWindow start
+[2023-04-11 09:36:34:792] electronWindow.createWindow start
+[2023-04-11 09:36:34:798] electronWindow.createWindow finish
+[2023-04-11 09:36:34:798] appWin.maximize
+[2023-04-11 09:36:34:813] addDebugContextMenu to appWin
+[2023-04-11 09:36:34:813] appWin.showUrl to app.html start
+[2023-04-11 09:36:34:820] createAppWindow finish
+[2023-04-11 09:36:34:820] loginWin start
+[2023-04-11 09:36:34:820] destroyWindow
+[2023-04-11 09:36:34:821] win close start
+[2023-04-11 09:36:34:821] win close finish
+[2023-04-11 09:36:34:821] loginWin finish
+[2023-04-11 09:36:37:016] appWin.showUrl internal: Start rendering
+[2023-04-11 09:36:37:016] appWin.showUrl to app.html finish
+[2023-04-11 10:14:25:232] Uncaught TypeError: this.handleCancelAuto is not a function
+[2023-04-11 10:16:39:457] Uncaught TypeError: this.handleCancel is not a function
+[2023-04-11 10:57:27:816] Uncaught ReferenceError: data2 is not defined
+[2023-04-11 10:58:29:812] Uncaught ReferenceError: data2 is not defined
+[2023-04-11 12:21:51:278] ipcMain.on commands.CLOSE_APP_WINDOW

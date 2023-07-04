@@ -1,0 +1,30 @@
+.btn-wrap{
+    border :1px solid  #333E4E;
+    border-radius: 5px;
+    padding: 15px;
+    width: 488px;
+    position: relative;
+}
+.btn-wrap > span{
+    background-color:#1C2530;
+}
+.persagy-btn-wrap{
+    border :1px solid  #aaa;
+    border-radius: 5px;
+    padding: 15px;
+    width: 488px;
+    position: relative;
+}
+.persagy-btn-wrap > span{
+    position: absolute;
+    background-color:#fff;
+    width: 115px;
+    height: 20px;
+    left: 12px;
+    top: -14px; 
+}
+.point-name{
+    display: inline-block;
+    padding: 2px;
+    margin: 0  5px;
+}

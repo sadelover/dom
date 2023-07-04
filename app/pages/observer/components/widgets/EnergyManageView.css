@@ -1,0 +1,38 @@
+.container{
+    position: absolute;
+    color: #ffffff;
+    /* background-color: #FFFFFF; */
+    z-index: 2;
+}
+
+.header{
+    height: 160px;
+}
+
+.box{
+    height: 100%;
+    width: 23%;
+    display: inline-block;
+    text-align: center;
+    background-color: rgba(48,62, 91, 0.7);
+    padding: 20px;
+    margin: 1%;
+    vertical-align:top;
+}
+
+.box_value{
+    font-size: 44px;
+    font-weight: 600;
+}
+
+.time_select{
+    margin-top: 20px;
+    padding: 20px;
+}
+.energy_box{
+    text-align: center;
+}
+.energy_box_value{
+    font-size: 24px;
+    display: inline-block;
+}

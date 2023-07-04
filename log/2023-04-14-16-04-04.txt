@@ -1,0 +1,40 @@
+[2023-04-14 16:04:04:230] app on ready
+[2023-04-14 16:04:04:231] start to install extensions
+[2023-04-14 16:04:04:231] argv.length6
+[2023-04-14 16:04:04:231] x0
+[2023-04-14 16:04:04:231] y0
+[2023-04-14 16:04:04:231] appWindowWidth--960
+[2023-04-14 16:04:04:231] appWindowHeight--516
+[2023-04-14 16:04:04:232] countNaN
+[2023-04-14 16:04:04:232] countstring
+[2023-04-14 16:04:04:232] count-r
+[2023-04-14 16:04:04:232] No-r
+[2023-04-14 16:04:04:232] the install param {isDev}: true
+[2023-04-14 16:04:04:262] begin to download extensions!
+[2023-04-14 16:04:05:408] start to install extensions,total cost: 1176
+[2023-04-14 16:04:05:408] createLoginWindow finish
+[2023-04-14 16:04:05:408] createLoginWindow start act
+[2023-04-14 16:04:05:408] electronWindow.createWindow start
+[2023-04-14 16:04:05:426] electronWindow.createWindow finish
+[2023-04-14 16:04:05:427] addDebugContextMenu start
+[2023-04-14 16:04:05:427] addDebugContextMenu finish
+[2023-04-14 16:04:05:427] loginWin.showUrl to login.html start
+[2023-04-14 16:04:05:434] loginWin.showUrl to login.html finish
+[2023-04-14 16:08:53:960] loginWin.showUrl internal act...
+[2023-04-14 16:09:03:430] loginWin.hide start
+[2023-04-14 16:09:03:431] loginWin.hide finish
+[2023-04-14 16:09:03:431] createAppWindow start
+[2023-04-14 16:09:03:431] electronWindow.createWindow start
+[2023-04-14 16:09:03:438] electronWindow.createWindow finish
+[2023-04-14 16:09:03:439] appWin.maximize
+[2023-04-14 16:09:03:453] addDebugContextMenu to appWin
+[2023-04-14 16:09:03:453] appWin.showUrl to app.html start
+[2023-04-14 16:09:03:459] createAppWindow finish
+[2023-04-14 16:09:03:459] loginWin start
+[2023-04-14 16:09:03:460] destroyWindow
+[2023-04-14 16:09:03:460] win close start
+[2023-04-14 16:09:03:461] win close finish
+[2023-04-14 16:09:03:462] loginWin finish
+[2023-04-14 16:09:05:693] appWin.showUrl internal: Start rendering
+[2023-04-14 16:09:05:693] appWin.showUrl to app.html finish
+[2023-04-14 17:36:20:182] appWin.webContents.on crashed

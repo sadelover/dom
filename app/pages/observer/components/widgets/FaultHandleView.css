@@ -1,0 +1,26 @@
+.container{
+    position: absolute;
+    color: #ffffff;
+    background-color: rgb(27,36,49);
+    z-index: 2;
+}
+
+.container2{
+    width:100%;
+}
+
+.header{
+    padding: 20px 20px;
+}
+
+.table-content{
+    width: 100%;
+}
+
+.no{
+    text-align: center
+}
+
+.Handle-Btn{
+    margin-left: 30px;
+}

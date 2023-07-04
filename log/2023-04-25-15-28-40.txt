@@ -1,0 +1,44 @@
+[2023-04-25 15:28:40:584] app on ready
+[2023-04-25 15:28:40:584] start to install extensions
+[2023-04-25 15:28:40:585] argv.length6
+[2023-04-25 15:28:40:585] x0
+[2023-04-25 15:28:40:585] y0
+[2023-04-25 15:28:40:585] appWindowWidth--960
+[2023-04-25 15:28:40:585] appWindowHeight--516
+[2023-04-25 15:28:40:586] countNaN
+[2023-04-25 15:28:40:586] countstring
+[2023-04-25 15:28:40:586] count-r
+[2023-04-25 15:28:40:586] No-r
+[2023-04-25 15:28:40:586] the install param {isDev}: true
+[2023-04-25 15:28:40:613] begin to download extensions!
+[2023-04-25 15:28:41:465] start to install extensions,total cost: 879
+[2023-04-25 15:28:41:466] createLoginWindow finish
+[2023-04-25 15:28:41:466] createLoginWindow start act
+[2023-04-25 15:28:41:466] electronWindow.createWindow start
+[2023-04-25 15:28:41:485] electronWindow.createWindow finish
+[2023-04-25 15:28:41:486] addDebugContextMenu start
+[2023-04-25 15:28:41:486] addDebugContextMenu finish
+[2023-04-25 15:28:41:486] loginWin.showUrl to login.html start
+[2023-04-25 15:28:41:493] loginWin.showUrl to login.html finish
+[2023-04-25 15:33:18:920] loginWin.showUrl internal act...
+[2023-04-25 15:38:11:011] loginWin.hide start
+[2023-04-25 15:38:11:012] loginWin.hide finish
+[2023-04-25 15:38:11:012] createAppWindow start
+[2023-04-25 15:38:11:013] electronWindow.createWindow start
+[2023-04-25 15:38:11:020] electronWindow.createWindow finish
+[2023-04-25 15:38:11:020] appWin.maximize
+[2023-04-25 15:38:11:026] addDebugContextMenu to appWin
+[2023-04-25 15:38:11:026] appWin.showUrl to app.html start
+[2023-04-25 15:38:11:033] createAppWindow finish
+[2023-04-25 15:38:11:033] loginWin start
+[2023-04-25 15:38:11:034] destroyWindow
+[2023-04-25 15:38:11:034] win close start
+[2023-04-25 15:38:11:035] win close finish
+[2023-04-25 15:38:11:035] loginWin finish
+[2023-04-25 15:38:13:380] appWin.showUrl internal: Start rendering
+[2023-04-25 15:38:13:380] appWin.showUrl to app.html finish
+[2023-04-25 15:38:20:953] Uncaught TypeError: Cannot read property 'Plant01ThisDayCWPGroupPowerTotal' of null
+[2023-04-25 15:38:20:954] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-25 16:17:46:709] Uncaught TypeError: Cannot read property 'Plant01PriChWPErr05' of null
+[2023-04-25 16:17:46:711] Uncaught TypeError: Cannot read property 'customControls' of null
+[2023-04-25 16:19:05:667] ipcMain.on commands.CLOSE_APP_WINDOW
